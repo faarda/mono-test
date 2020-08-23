@@ -1,0 +1,13 @@
+$primary: #0124DD;
+$light: #F9F9F9;
+$grey: #8C8FA3;
+$grey-dark: #55586F;
+$dark: #050929;
+$success: #2ECC40;
+
+// MIXINS
+
+@mixin flex {
+    display: flex;
+    align-items: center;
+}

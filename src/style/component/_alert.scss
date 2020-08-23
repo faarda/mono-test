@@ -1,0 +1,13 @@
+.m-alert{
+    @include flex;
+    align-items: flex-start;
+    padding: 1.5rem 2rem;
+    background: $light;
+    color: $grey;
+    border-radius: .5rem;
+
+    .icon{
+        margin-right: 1rem;
+        font-size: 3rem;
+    }
+}

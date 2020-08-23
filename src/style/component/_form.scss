@@ -1,0 +1,42 @@
+.m-form{
+    width: 100%;
+    display: grid;
+    grid-template-columns: 100%;
+    row-gap: 2rem;
+    margin-top: 3rem;
+
+    &__group{
+        @include flex;
+        flex-direction: column;
+        align-items: flex-start;
+    }
+
+    &__label{
+        display: inline-block;
+        margin-bottom: .5rem;
+        font-weight: 500;
+    }
+
+    &__input{
+        outline: none;
+        background: #fff;
+        padding: 1.5rem;
+        border: solid 1px $grey;
+        width: 100%;
+        height: 5rem;
+        border-radius: .5rem;
+        color: $grey-dark;
+        font-size: 1.4rem;
+        transition: .3s ease-in border;
+        appearance: none;
+
+        &::placeholder{
+            color: $grey;
+        }
+
+        &:active,
+        &:focus{
+            border-color: $primary;
+        }
+    }
+}

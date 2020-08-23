@@ -1,0 +1,47 @@
+.m-card{
+    display: block;
+    max-height: 25rem;
+    overflow: auto;
+    padding: 1.5rem;
+    border-radius: 1rem;
+    border: solid 1px darken($light, 5);
+}
+
+.m-trans{
+    list-style: none;
+
+    &__tran{
+        width: 100%;
+        @include flex;
+        justify-content: space-between;
+
+        &:not(:last-child){
+            margin-bottom: .8rem;
+        }
+
+        &__info{
+            &__time{
+                display: inline-block;
+                margin-top: .2rem;
+                font-size: 1.2rem;
+            }
+        }
+
+        &__amount{
+            font-size: 1.2rem;
+            display: inline-block;
+            padding: .5rem 1rem;
+            border-radius: .5rem;
+
+            &.debit{
+                color: $grey;
+                background: rgba($light, .95);
+            }
+
+            &.credit{
+                color: $success;
+                background: rgba($success, .1);
+            }
+        }
+    }
+}

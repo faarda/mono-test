@@ -1,0 +1,29 @@
+.m-btn{
+    display: block;
+    width: 100%;
+    outline: none;
+    border: none;
+    text-decoration: none;
+    cursor: pointer;
+    transition: .3s ease-in all;
+
+    &--primary{
+        background: lighten($primary, 10);
+        color: $light;
+        border-radius: 1rem;
+        padding: 1.7rem;
+
+        &:hover{
+            color: #fff;
+            box-shadow: 0 3px 20px rgba(0,0,0,.1);
+            background: $primary;
+        }
+
+        &:disabled,
+        &:disabled:hover{
+            background: lighten($primary, 30);
+            color: darken($light, 8);
+            cursor: not-allowed;
+        }
+    }
+}
