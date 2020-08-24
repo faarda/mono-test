@@ -9,6 +9,7 @@
 
 .m-trans{
     list-style: none;
+    width: 100%;
 
     &__tran{
         width: 100%;
@@ -20,6 +21,16 @@
         }
 
         &__info{
+            // width: 60%;
+            flex: 1;
+            margin-right: 1rem;
+            &__desc{
+                display: block;
+                max-width: 200px;
+                white-space: nowrap;
+                overflow: hidden;
+                text-overflow: ellipsis;
+            }
             &__time{
                 display: inline-block;
                 margin-top: .2rem;
@@ -28,6 +39,7 @@
         }
 
         &__amount{
+            // flex: 1;
             font-size: 1.2rem;
             display: inline-block;
             padding: .5rem 1rem;

@@ -1,6 +1,7 @@
 import { h } from 'preact'
 import { useContext, useCallback, useState, useEffect} from 'preact/hooks'
 import userDataContext from '../contexts/userDataContext'
+import { route } from 'preact-router'
 
 function RequestLoan() {
     const data = useContext(userDataContext);
@@ -12,17 +13,26 @@ function RequestLoan() {
     }, [data.data.name, data.data.requestedAmount]);
 
     const handleSuccess = (response) => {
-        console.log(response)
-        console.log(monoWidget)
+        const code = response.code;
+
+        data.setData.code(code);
+
         closeWidget();
+        
+        route('/my-loan', true);
+
     }
 
     const handleClose = () => {
         console.log("widget closed")
     }
- 
+
     const closeWidget = () => {
-        console.log(monoWidget)
+        const widgetBg = document.querySelector("#app-loader").parentElement;
+        const widget = document.getElementById("mono-connect--widget");
+
+        widgetBg.style.display = "none";
+        widget.style.display = "none"
     }
 
     useEffect(() => {
@@ -39,11 +49,6 @@ function RequestLoan() {
     const connectToBank = useCallback(e => {
         monoWidget.open();
         e.preventDefault();
-
-        // setTimeout(() => {        
-        //     monoWidget.close();
-        // }, 5000)
-        
     }, [monoWidget])
 
     return (

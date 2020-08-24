@@ -1,6 +1,6 @@
 import { useState } from 'react'
 
-const createState = (initialState) => {
+const useCreateState = (initialState) => {
     let state = {};
     let setState = {};
 
@@ -14,4 +14,4 @@ const createState = (initialState) => {
     return [state, setState];
 }
 
-export default createState;
+export default useCreateState;

@@ -1,0 +1,5098 @@
+[
+    {
+        "_id": "5f350a2ae6d01e3284127089",
+        "type": "debit",
+        "date": "2020-08-12T00:00:00.000Z",
+        "narration": "VALUE ADDED TAX VAT ON NIP TRANSFER FOR via GTWORLD TO UBA/ALI MONDAY ONWE ReF:GW",
+        "amount": 75,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e328412708a",
+        "type": "debit",
+        "date": "2020-08-12T00:00:00.000Z",
+        "narration": "COMMISSION NIP TRANSFER COMMISSION FOR via GTWORLD TO UBA/ALI MONDAY ONWE ReF:GW",
+        "amount": 1000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e328412708b",
+        "type": "debit",
+        "date": "2020-08-12T00:00:00.000Z",
+        "narration": "NIBSS Instant Payment Outward via GTWORLD TO UBA/ALI MONDAY ONWE /./REF:GW f",
+        "amount": 225000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e328412708c",
+        "type": "debit",
+        "date": "2020-08-12T00:00:00.000Z",
+        "narration": "TRANSFER BETWEEN CUSTOMERS Via GTWorld car steering wheel REF: from HASSAN ABDULHAMID TOMIWA to MUDASHIRU, KAZEEM-MUDASHIRU",
+        "amount": 15000000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e328412708d",
+        "type": "debit",
+        "date": "2020-08-11T00:00:00.000Z",
+        "narration": "TRANSFER BETWEEN CUSTOMERS via Internet Banking from HASSAN ABDULHAMID TOMIWA to AGBOOLA, OLUGBENGA",
+        "amount": 100000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e328412708e",
+        "type": "debit",
+        "date": "2020-08-11T00:00:00.000Z",
+        "narration": "VALUE ADDED TAX VAT ON NIP TRANSFER FOR via GTWORLD TO ZBN/BABATUNDE OLUSEGUN BABALOLA ReF:GW",
+        "amount": 75,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e328412708f",
+        "type": "debit",
+        "date": "2020-08-11T00:00:00.000Z",
+        "narration": "COMMISSION NIP TRANSFER COMMISSION FOR via GTWORLD TO ZBN/BABATUNDE OLUSEGUN BABALOLA ReF:GW",
+        "amount": 1000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e3284127090",
+        "type": "debit",
+        "date": "2020-08-11T00:00:00.000Z",
+        "narration": "NIBSS Instant Payment Outward via GTWORLD TO ZBN/BABATUNDE OLUSEGUN BABALOLA /./REF:GW f",
+        "amount": 260000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e3284127091",
+        "type": "debit",
+        "date": "2020-08-11T00:00:00.000Z",
+        "narration": "VALUE ADDED TAX VAT ON NIP TRANSFER FOR via GTWORLD TO ACCESS/MERCY CHIDIEBERE OZURUMBA ReF:GW",
+        "amount": 75,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e3284127092",
+        "type": "debit",
+        "date": "2020-08-11T00:00:00.000Z",
+        "narration": "COMMISSION NIP TRANSFER COMMISSION FOR via GTWORLD TO ACCESS/MERCY CHIDIEBERE OZURUMBA ReF:GW",
+        "amount": 1000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e3284127093",
+        "type": "debit",
+        "date": "2020-08-11T00:00:00.000Z",
+        "narration": "NIBSS Instant Payment Outward via GTWORLD TO ACCESS/MERCY CHIDIEBERE OZURUMBA /./REF:GW f",
+        "amount": 210000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e3284127094",
+        "type": "debit",
+        "date": "2020-08-10T00:00:00.000Z",
+        "narration": "TRANSFER BETWEEN CUSTOMERS Via GTWorld REF: from HASSAN ABDULHAMID TOMIWA to OKUPE, ADESIMILOLU ADEBAYO",
+        "amount": 40000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e3284127095",
+        "type": "debit",
+        "date": "2020-08-10T00:00:00.000Z",
+        "narration": "VALUE ADDED TAX VAT ON NIP TRANSFER FOR via GTWORLD TO FCMB/ADEGBOYEGA SAMUEL ADEWALE ReF:GW",
+        "amount": 75,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e3284127096",
+        "type": "debit",
+        "date": "2020-08-10T00:00:00.000Z",
+        "narration": "COMMISSION NIP TRANSFER COMMISSION FOR via GTWORLD TO FCMB/ADEGBOYEGA SAMUEL ADEWALE ReF:GW",
+        "amount": 1000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e3284127097",
+        "type": "debit",
+        "date": "2020-08-10T00:00:00.000Z",
+        "narration": "NIBSS Instant Payment Outward via GTWORLD TO FCMB/ADEGBOYEGA SAMUEL ADEWALE /./REF:GW f",
+        "amount": 500000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e3284127098",
+        "type": "debit",
+        "date": "2020-08-10T00:00:00.000Z",
+        "narration": "VALUE ADDED TAX VAT ON NIP TRANSFER FOR via GTWORLD TO ACCESS/OYEBADE OLUDARE ReF:GW",
+        "amount": 75,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e3284127099",
+        "type": "debit",
+        "date": "2020-08-10T00:00:00.000Z",
+        "narration": "COMMISSION NIP TRANSFER COMMISSION FOR via GTWORLD TO ACCESS/OYEBADE OLUDARE ReF:GW",
+        "amount": 1000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e328412709a",
+        "type": "debit",
+        "date": "2020-08-10T00:00:00.000Z",
+        "narration": "NIBSS Instant Payment Outward via GTWORLD TO ACCESS/OYEBADE OLUDARE /./REF:GW f",
+        "amount": 100000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e328412709b",
+        "type": "debit",
+        "date": "2020-08-10T00:00:00.000Z",
+        "narration": "Airtime Purchase GTWORLD_QL-CT-",
+        "amount": 499900,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e328412709c",
+        "type": "debit",
+        "date": "2020-08-10T00:00:00.000Z",
+        "narration": "POS/WEB PURCHASE TRANSACTION -- --MALLMART HYPERMARKET LA LANG ",
+        "amount": 622650,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e328412709d",
+        "type": "debit",
+        "date": "2020-08-08T00:00:00.000Z",
+        "narration": "TRANSFER BETWEEN CUSTOMERS Via GTWorld REF: from HASSAN ABDULHAMID TOMIWA to OKOLIE EZE JOSEPH",
+        "amount": 480000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e328412709e",
+        "type": "debit",
+        "date": "2020-08-08T00:00:00.000Z",
+        "narration": "TRANSFER BETWEEN CUSTOMERS Via GTWorld REF: from HASSAN ABDULHAMID TOMIWA to OKOLIE EZE JOSEPH",
+        "amount": 260000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e328412709f",
+        "type": "debit",
+        "date": "2020-08-07T00:00:00.000Z",
+        "narration": "POS/WEB PURCHASE TRANSACTION -- --JUMIA LA LANG ",
+        "amount": 435375,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e32841270a0",
+        "type": "debit",
+        "date": "2020-08-07T00:00:00.000Z",
+        "narration": "POS/WEB PURCHASE TRANSACTION -- --pay.* Lekki NG ",
+        "amount": 4800000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e32841270a1",
+        "type": "debit",
+        "date": "2020-08-06T00:00:00.000Z",
+        "narration": "TRANSFER BETWEEN CUSTOMERS via Internet Banking from HASSAN ABDULHAMID TOMIWA to AGBOOLA, OLUGBENGA",
+        "amount": 100000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e32841270a2",
+        "type": "debit",
+        "date": "2020-08-06T00:00:00.000Z",
+        "narration": "TRANSFER BETWEEN CUSTOMERS via Internet Banking from HASSAN ABDULHAMID TOMIWA to AGBOOLA, OLUGBENGA",
+        "amount": 100000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e32841270a3",
+        "type": "debit",
+        "date": "2020-08-05T00:00:00.000Z",
+        "narration": "TRANSFER BETWEEN CUSTOMERS via Internet Banking from HASSAN ABDULHAMID TOMIWA to AGBOOLA, OLUGBENGA",
+        "amount": 100000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e32841270a4",
+        "type": "debit",
+        "date": "2020-08-05T00:00:00.000Z",
+        "narration": "VALUE ADDED TAX VAT ON NIP TRANSFER FOR via GTWORLD TO FB/TAWAKKALT ADESHOLA ADEWUSI ReF:GW",
+        "amount": 187,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e32841270a5",
+        "type": "debit",
+        "date": "2020-08-05T00:00:00.000Z",
+        "narration": "COMMISSION NIP TRANSFER COMMISSION FOR via GTWORLD TO FB/TAWAKKALT ADESHOLA ADEWUSI ReF:GW",
+        "amount": 2500,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e32841270a6",
+        "type": "debit",
+        "date": "2020-08-05T00:00:00.000Z",
+        "narration": "NIBSS Instant Payment Outward via GTWORLD TO FB/TAWAKKALT ADESHOLA ADEWUSI /./REF:GW f",
+        "amount": 2000000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e32841270a7",
+        "type": "debit",
+        "date": "2020-08-05T00:00:00.000Z",
+        "narration": "TRANSFER BETWEEN CUSTOMERS via Internet Banking from HASSAN ABDULHAMID TOMIWA to AGBOOLA, OLUGBENGA",
+        "amount": 100000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e32841270a8",
+        "type": "debit",
+        "date": "2020-08-04T00:00:00.000Z",
+        "narration": "Airtime Purchase GTWORLD_QL-CT-",
+        "amount": 100000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e32841270a9",
+        "type": "debit",
+        "date": "2020-08-04T00:00:00.000Z",
+        "narration": "TRANSFER BETWEEN CUSTOMERS via Internet Banking from HASSAN ABDULHAMID TOMIWA to AGBOOLA, OLUGBENGA",
+        "amount": 100000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e32841270aa",
+        "type": "debit",
+        "date": "2020-08-04T00:00:00.000Z",
+        "narration": "TRANSFER BETWEEN CUSTOMERS via Internet Banking from HASSAN ABDULHAMID TOMIWA to AGBOOLA, OLUGBENGA",
+        "amount": 100000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e32841270ab",
+        "type": "debit",
+        "date": "2020-08-03T00:00:00.000Z",
+        "narration": "TRANSFER BETWEEN CUSTOMERS Via GTWorld REF: from HASSAN ABDULHAMID TOMIWA to OGUNGBEFUN OLADUNNI KHADIJAH",
+        "amount": 1000000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e32841270ac",
+        "type": "debit",
+        "date": "2020-08-03T00:00:00.000Z",
+        "narration": "TRANSFER BETWEEN CUSTOMERS via Internet Banking from HASSAN ABDULHAMID TOMIWA to AGBOOLA, OLUGBENGA",
+        "amount": 100000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e32841270ad",
+        "type": "debit",
+        "date": "2020-08-03T00:00:00.000Z",
+        "narration": "TRANSFER BETWEEN CUSTOMERS via Internet Banking from HASSAN ABDULHAMID TOMIWA to AGBOOLA, OLUGBENGA",
+        "amount": 100000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e32841270ae",
+        "type": "debit",
+        "date": "2020-08-03T00:00:00.000Z",
+        "narration": "VALUE ADDED TAX VAT ON NIP TRANSFER FOR via GTWORLD TO FBN/ADEDAYO OMOLARA GRACE ReF:GW",
+        "amount": 187,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e32841270af",
+        "type": "debit",
+        "date": "2020-08-03T00:00:00.000Z",
+        "narration": "COMMISSION NIP TRANSFER COMMISSION FOR via GTWORLD TO FBN/ADEDAYO OMOLARA GRACE ReF:GW",
+        "amount": 2500,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e32841270b0",
+        "type": "debit",
+        "date": "2020-08-03T00:00:00.000Z",
+        "narration": "NIBSS Instant Payment Outward via GTWORLD TO FBN/ADEDAYO OMOLARA GRACE /./REF:GW f",
+        "amount": 1000000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e32841270b1",
+        "type": "debit",
+        "date": "2020-08-03T00:00:00.000Z",
+        "narration": "TRANSFER BETWEEN CUSTOMERS via Internet Banking from HASSAN ABDULHAMID TOMIWA to AGBOOLA, OLUGBENGA",
+        "amount": 100000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e32841270b2",
+        "type": "debit",
+        "date": "2020-08-01T00:00:00.000Z",
+        "narration": "CASH WITHDRAWAL FROM OTHER ATM -- -- UBA H MA YABA NG ",
+        "amount": 1000000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e32841270b3",
+        "type": "debit",
+        "date": "2020-08-01T00:00:00.000Z",
+        "narration": "CASH WITHDRAWAL FROM OTHER ATM -- -- UBA H MA YABA NG ",
+        "amount": 1000000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e32841270b4",
+        "type": "debit",
+        "date": "2020-08-01T00:00:00.000Z",
+        "narration": "CASH WITHDRAWAL FROM OTHER ATM -- -- UBA H MA YABA NG ",
+        "amount": 1000000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e32841270b5",
+        "type": "debit",
+        "date": "2020-08-01T00:00:00.000Z",
+        "narration": "POS/WEB PURCHASE TRANSACTION -- --REWANE, EVELYN FABYA LA LANG ",
+        "amount": 500000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e32841270b6",
+        "type": "debit",
+        "date": "2020-07-31T00:00:00.000Z",
+        "narration": "STANDING ORDER Standing Order via Internet Banking test",
+        "amount": 20000,
+        "category": "DIYA GBAGADA"
+    },
+    {
+        "_id": "5f350a2ae6d01e32841270b7",
+        "type": "debit",
+        "date": "2020-07-31T00:00:00.000Z",
+        "narration": "TRANSFER BETWEEN CUSTOMERS via Internet Banking from HASSAN ABDULHAMID TOMIWA to AGBOOLA, OLUGBENGA",
+        "amount": 100000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e32841270b8",
+        "type": "debit",
+        "date": "2020-07-31T00:00:00.000Z",
+        "narration": "TRANSFER BETWEEN CUSTOMERS via Internet Banking from HASSAN ABDULHAMID TOMIWA to AGBOOLA, OLUGBENGA",
+        "amount": 100000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e32841270b9",
+        "type": "debit",
+        "date": "2020-07-31T00:00:00.000Z",
+        "narration": "TRANSFER BETWEEN CUSTOMERS via Internet Banking from HASSAN ABDULHAMID TOMIWA to AGBOOLA, OLUGBENGA",
+        "amount": 100000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e32841270ba",
+        "type": "debit",
+        "date": "2020-07-31T00:00:00.000Z",
+        "narration": "TRANSFER BETWEEN CUSTOMERS via Internet Banking from HASSAN ABDULHAMID TOMIWA to AGBOOLA, OLUGBENGA",
+        "amount": 100000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e32841270bb",
+        "type": "debit",
+        "date": "2020-07-31T00:00:00.000Z",
+        "narration": "TRANSFER BETWEEN CUSTOMERS via Internet Banking from HASSAN ABDULHAMID TOMIWA to AGBOOLA, OLUGBENGA",
+        "amount": 100000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e32841270bc",
+        "type": "debit",
+        "date": "2020-07-31T00:00:00.000Z",
+        "narration": "TRANSFER BETWEEN CUSTOMERS via Internet Banking from HASSAN ABDULHAMID TOMIWA to AGBOOLA, OLUGBENGA",
+        "amount": 100000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e32841270bd",
+        "type": "debit",
+        "date": "2020-07-31T00:00:00.000Z",
+        "narration": "TRANSFER BETWEEN CUSTOMERS via Internet Banking from HASSAN ABDULHAMID TOMIWA to AGBOOLA, OLUGBENGA",
+        "amount": 100000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e32841270be",
+        "type": "debit",
+        "date": "2020-07-31T00:00:00.000Z",
+        "narration": "TRANSFER BETWEEN CUSTOMERS via Internet Banking from HASSAN ABDULHAMID TOMIWA to AGBOOLA, OLUGBENGA",
+        "amount": 100000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e32841270bf",
+        "type": "debit",
+        "date": "2020-07-31T00:00:00.000Z",
+        "narration": "TRANSFER BETWEEN CUSTOMERS via Internet Banking from HASSAN ABDULHAMID TOMIWA to AGBOOLA, OLUGBENGA",
+        "amount": 100000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e32841270c0",
+        "type": "debit",
+        "date": "2020-07-31T00:00:00.000Z",
+        "narration": "TRANSFER BETWEEN CUSTOMERS Via GTWorld REF: from HASSAN ABDULHAMID TOMIWA to OGUNGBEFUN OLADUNNI KHADIJAH",
+        "amount": 1500000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e32841270c1",
+        "type": "debit",
+        "date": "2020-07-31T00:00:00.000Z",
+        "narration": "VALUE ADDED TAX VAT ON NIP TRANSFER FOR via GTWORLD For my brother TO STANBIC/NIMOTALLAHI BOSOLA HASSAN ReF:GW",
+        "amount": 187,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e32841270c2",
+        "type": "debit",
+        "date": "2020-07-31T00:00:00.000Z",
+        "narration": "COMMISSION NIP TRANSFER COMMISSION FOR via GTWORLD For my brother TO STANBIC/NIMOTALLAHI BOSOLA HASSAN ReF:GW",
+        "amount": 2500,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e32841270c3",
+        "type": "debit",
+        "date": "2020-07-31T00:00:00.000Z",
+        "narration": "NIBSS Instant Payment Outward via GTWORLD For my brother TO STANBIC/NIMOTALLAHI BOSOLA HASSAN /./REF:GW f",
+        "amount": 2000000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e32841270c4",
+        "type": "debit",
+        "date": "2020-07-31T00:00:00.000Z",
+        "narration": "VALUE ADDED TAX VAT ON NIP TRANSFER FOR via GTWORLD TO STANBIC/OLANREWAJU OYEMADE GAFAR ReF:GW",
+        "amount": 187,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e32841270c5",
+        "type": "debit",
+        "date": "2020-07-31T00:00:00.000Z",
+        "narration": "COMMISSION NIP TRANSFER COMMISSION FOR via GTWORLD TO STANBIC/OLANREWAJU OYEMADE GAFAR ReF:GW",
+        "amount": 2500,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e32841270c6",
+        "type": "debit",
+        "date": "2020-07-31T00:00:00.000Z",
+        "narration": "NIBSS Instant Payment Outward via GTWORLD TO STANBIC/OLANREWAJU OYEMADE GAFAR /./REF:GW f",
+        "amount": 4000000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e32841270c7",
+        "type": "debit",
+        "date": "2020-07-31T00:00:00.000Z",
+        "narration": "TRANSFER BETWEEN CUSTOMERS via Internet Banking from HASSAN ABDULHAMID TOMIWA to AGBOOLA, OLUGBENGA",
+        "amount": 100000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e32841270c8",
+        "type": "debit",
+        "date": "2020-07-31T00:00:00.000Z",
+        "narration": "TRANSFER BETWEEN CUSTOMERS via Internet Banking from HASSAN ABDULHAMID TOMIWA to AGBOOLA, OLUGBENGA",
+        "amount": 100000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e32841270c9",
+        "type": "debit",
+        "date": "2020-07-31T00:00:00.000Z",
+        "narration": "POS/WEB PURCHASE TRANSACTION -- --MALLMART HYPERMARKET-Y LANG NG ",
+        "amount": 1468200,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e32841270ca",
+        "type": "debit",
+        "date": "2020-07-30T00:00:00.000Z",
+        "narration": "STANDING ORDER Standing Order via Internet Banking test",
+        "amount": 20000,
+        "category": "DIYA GBAGADA"
+    },
+    {
+        "_id": "5f350a2ae6d01e32841270cb",
+        "type": "debit",
+        "date": "2020-07-30T00:00:00.000Z",
+        "narration": "STAMP DUTY CHARGE STAMP DUTY CHARGE - //",
+        "amount": 5000,
+        "category": "DIYA GBAGADA"
+    },
+    {
+        "_id": "5f350a2ae6d01e32841270cc",
+        "type": "debit",
+        "date": "2020-07-30T00:00:00.000Z",
+        "narration": "TRANSFER BETWEEN CUSTOMERS via Internet Banking testingmono from HASSAN ABDULHAMID TOMIWA to AGBOOLA, OLUGBENGA",
+        "amount": 50000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e32841270cd",
+        "type": "debit",
+        "date": "2020-07-30T00:00:00.000Z",
+        "narration": "TRANSFER BETWEEN CUSTOMERS via Internet Banking from HASSAN ABDULHAMID TOMIWA to AGBOOLA, OLUGBENGA",
+        "amount": 100000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e32841270ce",
+        "type": "debit",
+        "date": "2020-07-30T00:00:00.000Z",
+        "narration": "VALUE ADDED TAX VAT ON NIP TRANSFER FOR TO WEMA/ABDULHAMID HASSAN ReF:",
+        "amount": 75,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e32841270cf",
+        "type": "debit",
+        "date": "2020-07-30T00:00:00.000Z",
+        "narration": "COMMISSION NIP TRANSFER COMMISSION FOR TO WEMA/ABDULHAMID HASSAN ReF:",
+        "amount": 1000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e32841270d0",
+        "type": "debit",
+        "date": "2020-07-30T00:00:00.000Z",
+        "narration": "NIBSS Instant Payment Outward TO WEMA/ABDULHAMID HASSAN /./REF: ",
+        "amount": 100000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e32841270d1",
+        "type": "debit",
+        "date": "2020-07-30T00:00:00.000Z",
+        "narration": "TRANSFER BETWEEN CUSTOMERS via Internet Banking from HASSAN ABDULHAMID TOMIWA to AGBOOLA, OLUGBENGA",
+        "amount": 100000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e32841270d2",
+        "type": "credit",
+        "date": "2020-07-30T00:00:00.000Z",
+        "narration": "TRANSFER BETWEEN CUSTOMERS |:Salary for Prak|||HASSAN ABDULHAMID TOMIWA REF: ",
+        "amount": 152400000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e32841270d3",
+        "type": "debit",
+        "date": "2020-07-30T00:00:00.000Z",
+        "narration": "POS/WEB PURCHASE TRANSACTION -- --PG-DEV E/NTER LANG ",
+        "amount": 150000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e32841270d4",
+        "type": "debit",
+        "date": "2020-07-30T00:00:00.000Z",
+        "narration": "VALUE ADDED TAX VAT ON NIP TRANSFER FOR via GTWORLD TO ACCESS/UBAKANMA UCHECHUKWU ReF:GW",
+        "amount": 75,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e32841270d5",
+        "type": "debit",
+        "date": "2020-07-30T00:00:00.000Z",
+        "narration": "COMMISSION NIP TRANSFER COMMISSION FOR via GTWORLD TO ACCESS/UBAKANMA UCHECHUKWU ReF:GW",
+        "amount": 1000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e32841270d6",
+        "type": "debit",
+        "date": "2020-07-30T00:00:00.000Z",
+        "narration": "NIBSS Instant Payment Outward via GTWORLD TO ACCESS/UBAKANMA UCHECHUKWU /./REF:GW f",
+        "amount": 120000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e32841270d7",
+        "type": "debit",
+        "date": "2020-07-30T00:00:00.000Z",
+        "narration": "TRANSFER BETWEEN CUSTOMERS Via GTWorld REF: from HASSAN ABDULHAMID TOMIWA to SALAUDEEN AISHAH ANUOLUWAPO",
+        "amount": 200000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e32841270d8",
+        "type": "debit",
+        "date": "2020-07-29T00:00:00.000Z",
+        "narration": "VALUE ADDED TAX VAT ON NIP TRANSFER FOR via GTWORLD TO UBA/UMARU EMMANUEL ReF:GW",
+        "amount": 75,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e32841270d9",
+        "type": "debit",
+        "date": "2020-07-29T00:00:00.000Z",
+        "narration": "COMMISSION NIP TRANSFER COMMISSION FOR via GTWORLD TO UBA/UMARU EMMANUEL ReF:GW",
+        "amount": 1000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e32841270da",
+        "type": "debit",
+        "date": "2020-07-29T00:00:00.000Z",
+        "narration": "NIBSS Instant Payment Outward via GTWORLD TO UBA/UMARU EMMANUEL /./REF:GW f",
+        "amount": 220000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e32841270db",
+        "type": "debit",
+        "date": "2020-07-28T00:00:00.000Z",
+        "narration": "TRANSFER BETWEEN CUSTOMERS Via GTWorld car papers renewal REF: from HASSAN ABDULHAMID TOMIWA to ADELIYI, ADETOBA JOSEPH",
+        "amount": 1400000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e32841270dc",
+        "type": "debit",
+        "date": "2020-07-28T00:00:00.000Z",
+        "narration": "VALUE ADDED TAX VAT ON NIP TRANSFER FOR via GTWORLD TO WEMA/ABDULHAMID HASSAN ReF:GW",
+        "amount": 187,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e32841270dd",
+        "type": "debit",
+        "date": "2020-07-28T00:00:00.000Z",
+        "narration": "COMMISSION NIP TRANSFER COMMISSION FOR via GTWORLD TO WEMA/ABDULHAMID HASSAN ReF:GW",
+        "amount": 2500,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e32841270de",
+        "type": "debit",
+        "date": "2020-07-28T00:00:00.000Z",
+        "narration": "NIBSS Instant Payment Outward via GTWORLD TO WEMA/ABDULHAMID HASSAN /./REF:GW f",
+        "amount": 1000000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e32841270df",
+        "type": "debit",
+        "date": "2020-07-27T00:00:00.000Z",
+        "narration": "VALUE ADDED TAX VAT ON NIP TRANSFER FOR via GTWORLD TO FBN/DUKUYE RUKEVWE ReF:GW.",
+        "amount": 75,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e32841270e0",
+        "type": "debit",
+        "date": "2020-07-27T00:00:00.000Z",
+        "narration": "COMMISSION NIP TRANSFER COMMISSION FOR via GTWORLD TO FBN/DUKUYE RUKEVWE ReF:GW.",
+        "amount": 1000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e32841270e1",
+        "type": "debit",
+        "date": "2020-07-27T00:00:00.000Z",
+        "narration": "NIBSS Instant Payment Outward via GTWORLD TO FBN/DUKUYE RUKEVWE /./REF:GW. f",
+        "amount": 241875,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e32841270e2",
+        "type": "debit",
+        "date": "2020-07-27T00:00:00.000Z",
+        "narration": "TRANSFER BETWEEN CUSTOMERS Via GTWorld abduk REF: from HASSAN ABDULHAMID TOMIWA to SALAUDEEN AISHAH ANUOLUWAPO",
+        "amount": 1500000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e32841270e3",
+        "type": "debit",
+        "date": "2020-07-27T00:00:00.000Z",
+        "narration": "VALUE ADDED TAX VAT ON NIP TRANSFER FOR via GTWORLD TO FBN/GAFAN KODJO MATTHEW ReF:GW",
+        "amount": 75,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e32841270e4",
+        "type": "debit",
+        "date": "2020-07-27T00:00:00.000Z",
+        "narration": "COMMISSION NIP TRANSFER COMMISSION FOR via GTWORLD TO FBN/GAFAN KODJO MATTHEW ReF:GW",
+        "amount": 1000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e32841270e5",
+        "type": "debit",
+        "date": "2020-07-27T00:00:00.000Z",
+        "narration": "NIBSS Instant Payment Outward via GTWORLD TO FBN/GAFAN KODJO MATTHEW /./REF:GW f",
+        "amount": 250000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e32841270e6",
+        "type": "debit",
+        "date": "2020-07-26T00:00:00.000Z",
+        "narration": "VALUE ADDED TAX VAT ON NIP TRANSFER FOR via GTWORLD TO STANBIC/ABDULHAMID TOMIWA HASSAN ReF:GW",
+        "amount": 75,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e32841270e7",
+        "type": "debit",
+        "date": "2020-07-26T00:00:00.000Z",
+        "narration": "COMMISSION NIP TRANSFER COMMISSION FOR via GTWORLD TO STANBIC/ABDULHAMID TOMIWA HASSAN ReF:GW",
+        "amount": 1000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e32841270e8",
+        "type": "debit",
+        "date": "2020-07-26T00:00:00.000Z",
+        "narration": "NIBSS Instant Payment Outward via GTWORLD TO STANBIC/ABDULHAMID TOMIWA HASSAN /./REF:GW f",
+        "amount": 50000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e32841270e9",
+        "type": "debit",
+        "date": "2020-07-25T00:00:00.000Z",
+        "narration": "TRANSFER BETWEEN CUSTOMERS Via GTWorld ntel REF: from HASSAN ABDULHAMID TOMIWA to UCHE, CHIEBERE ELISHA",
+        "amount": 1850000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e32841270ea",
+        "type": "debit",
+        "date": "2020-07-25T00:00:00.000Z",
+        "narration": "POS/WEB PURCHASE TRANSACTION -- --PG-SPL/E-T LANG ",
+        "amount": 15170500,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e32841270eb",
+        "type": "debit",
+        "date": "2020-07-24T00:00:00.000Z",
+        "narration": "STANDING ORDER SMS ALERT CHARGE FOR JUNE-JULY",
+        "amount": 22000,
+        "category": "DIYA GBAGADA"
+    },
+    {
+        "_id": "5f350a2ae6d01e32841270ec",
+        "type": "debit",
+        "date": "2020-07-24T00:00:00.000Z",
+        "narration": "TRANSFER BETWEEN CUSTOMERS Via GTWorld REF: from HASSAN ABDULHAMID TOMIWA to OGUNGBEFUN OLADUNNI KHADIJAH",
+        "amount": 5000000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e32841270ed",
+        "type": "debit",
+        "date": "2020-07-23T00:00:00.000Z",
+        "narration": "STAMP DUTY CHARGE STAMP DUTY CHARGE - //",
+        "amount": 10000,
+        "category": "DIYA GBAGADA"
+    },
+    {
+        "_id": "5f350a2ae6d01e32841270ee",
+        "type": "credit",
+        "date": "2020-07-23T00:00:00.000Z",
+        "narration": "TRANSFER BETWEEN CUSTOMERS Via GAPSLITE salary completion. REF: from OMNISCIDATA LTD to HASSAN ABDULHAMID TOMIWA",
+        "amount": 40000000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e32841270ef",
+        "type": "debit",
+        "date": "2020-07-23T00:00:00.000Z",
+        "narration": "TRANSFER BETWEEN CUSTOMERS Via GTWorld REF: from HASSAN ABDULHAMID TOMIWA to SALAUDEEN AISHAH ANUOLUWAPO",
+        "amount": 800000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e32841270f0",
+        "type": "credit",
+        "date": "2020-07-23T00:00:00.000Z",
+        "narration": "TRANSFER BETWEEN CUSTOMERS trGP PAYOUT FOR Thu Jul GMT UTC FLUTTERWAVE TECH SOLHASSAN ABDULHAMID TO REF:",
+        "amount": 10000000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e32841270f1",
+        "type": "debit",
+        "date": "2020-07-22T00:00:00.000Z",
+        "narration": "TRANSFER BETWEEN CUSTOMERS Via GTWorld REF: from HASSAN ABDULHAMID TOMIWA to OGUNGBEFUN OLADUNNI KHADIJAH",
+        "amount": 1000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e32841270f2",
+        "type": "debit",
+        "date": "2020-07-21T00:00:00.000Z",
+        "narration": "VALUE ADDED TAX VAT ON NIP TRANSFER FOR via GTWORLD TO ZBN/PAYSTACK VIRTUAL MANAGED ACCT PAYSTACK ReF:GW",
+        "amount": 75,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e32841270f3",
+        "type": "debit",
+        "date": "2020-07-21T00:00:00.000Z",
+        "narration": "COMMISSION NIP TRANSFER COMMISSION FOR via GTWORLD TO ZBN/PAYSTACK VIRTUAL MANAGED ACCT PAYSTACK ReF:GW",
+        "amount": 1000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e32841270f4",
+        "type": "debit",
+        "date": "2020-07-21T00:00:00.000Z",
+        "narration": "NIBSS Instant Payment Outward via GTWORLD TO ZBN/PAYSTACK VIRTUAL MANAGED ACCT PAYSTACK /./REF:GW f",
+        "amount": 400000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e32841270f5",
+        "type": "debit",
+        "date": "2020-07-21T00:00:00.000Z",
+        "narration": "TRANSFER BETWEEN CUSTOMERS Via GTWorld mono test REF: from HASSAN ABDULHAMID TOMIWA to OGUNGBEFUN OLADUNNI KHADIJAH",
+        "amount": 10000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e32841270f6",
+        "type": "debit",
+        "date": "2020-07-21T00:00:00.000Z",
+        "narration": "Airtime Purchase GTWORLD_QL-CT-",
+        "amount": 100000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e32841270f7",
+        "type": "debit",
+        "date": "2020-07-20T00:00:00.000Z",
+        "narration": "VALUE ADDED TAX VAT ON NIP TRANSFER FOR via GTWORLD TO WEMA/ABDULHAMID TOMIWA ReF:GW",
+        "amount": 375,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e32841270f8",
+        "type": "debit",
+        "date": "2020-07-20T00:00:00.000Z",
+        "narration": "COMMISSION NIP TRANSFER COMMISSION FOR via GTWORLD TO WEMA/ABDULHAMID TOMIWA ReF:GW",
+        "amount": 5000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e32841270f9",
+        "type": "debit",
+        "date": "2020-07-20T00:00:00.000Z",
+        "narration": "NIBSS Instant Payment Outward via GTWORLD TO WEMA/ABDULHAMID TOMIWA /./REF:GW f",
+        "amount": 10000000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e32841270fa",
+        "type": "debit",
+        "date": "2020-07-20T00:00:00.000Z",
+        "narration": "VALUE ADDED TAX VAT ON NIP TRANSFER FOR via GTWORLD TO ZBN/PAYSTACK VIRTUAL MANAGED ACCT PAYSTACK ReF:GW",
+        "amount": 375,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e32841270fb",
+        "type": "debit",
+        "date": "2020-07-20T00:00:00.000Z",
+        "narration": "COMMISSION NIP TRANSFER COMMISSION FOR via GTWORLD TO ZBN/PAYSTACK VIRTUAL MANAGED ACCT PAYSTACK ReF:GW",
+        "amount": 5000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e32841270fc",
+        "type": "debit",
+        "date": "2020-07-20T00:00:00.000Z",
+        "narration": "NIBSS Instant Payment Outward via GTWORLD TO ZBN/PAYSTACK VIRTUAL MANAGED ACCT PAYSTACK /./REF:GW f",
+        "amount": 15170500,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e32841270fd",
+        "type": "debit",
+        "date": "2020-07-18T00:00:00.000Z",
+        "narration": "VALUE ADDED TAX VAT ON NIP TRANSFER FOR via GTWORLD TO FB/TAWAKKALT ADESHOLA ADEWUSI ReF:GW",
+        "amount": 187,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e32841270fe",
+        "type": "debit",
+        "date": "2020-07-18T00:00:00.000Z",
+        "narration": "COMMISSION NIP TRANSFER COMMISSION FOR via GTWORLD TO FB/TAWAKKALT ADESHOLA ADEWUSI ReF:GW",
+        "amount": 2500,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e32841270ff",
+        "type": "debit",
+        "date": "2020-07-18T00:00:00.000Z",
+        "narration": "NIBSS Instant Payment Outward via GTWORLD TO FB/TAWAKKALT ADESHOLA ADEWUSI /./REF:GW f",
+        "amount": 1500000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e3284127100",
+        "type": "debit",
+        "date": "2020-07-18T00:00:00.000Z",
+        "narration": "POS/WEB PURCHASE TRANSACTION -- --MALLMART HYPERMARKET-Y LANG NG ",
+        "amount": 1968575,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e3284127101",
+        "type": "debit",
+        "date": "2020-07-17T00:00:00.000Z",
+        "narration": "VALUE ADDED TAX VAT ON NIP TRANSFER FOR via GTWORLD for chair TO UBA/OKEKE EMEKA ReF:GW",
+        "amount": 375,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e3284127102",
+        "type": "debit",
+        "date": "2020-07-17T00:00:00.000Z",
+        "narration": "COMMISSION NIP TRANSFER COMMISSION FOR via GTWORLD for chair TO UBA/OKEKE EMEKA ReF:GW",
+        "amount": 5000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e3284127103",
+        "type": "debit",
+        "date": "2020-07-17T00:00:00.000Z",
+        "narration": "NIBSS Instant Payment Outward via GTWORLD for chair TO UBA/OKEKE EMEKA /./REF:GW f",
+        "amount": 7800000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e3284127104",
+        "type": "debit",
+        "date": "2020-07-17T00:00:00.000Z",
+        "narration": "CASH WITHDRAWAL FROM OTHER ATM -- --SBP STERLI H-MACAULY RD NG ",
+        "amount": 1000000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e3284127105",
+        "type": "debit",
+        "date": "2020-07-16T00:00:00.000Z",
+        "narration": "VALUE ADDED TAX VAT ON NIP TRANSFER FOR via GTWORLD TO UBA/PAPIEES PLACE ANIMART LTD ReF:GW",
+        "amount": 75,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e3284127106",
+        "type": "debit",
+        "date": "2020-07-16T00:00:00.000Z",
+        "narration": "COMMISSION NIP TRANSFER COMMISSION FOR via GTWORLD TO UBA/PAPIEES PLACE ANIMART LTD ReF:GW",
+        "amount": 1000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e3284127107",
+        "type": "debit",
+        "date": "2020-07-16T00:00:00.000Z",
+        "narration": "NIBSS Instant Payment Outward via GTWORLD TO UBA/PAPIEES PLACE ANIMART LTD /./REF:GW f",
+        "amount": 320000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e3284127108",
+        "type": "debit",
+        "date": "2020-07-16T00:00:00.000Z",
+        "narration": "TRANSFER BETWEEN CUSTOMERS Via GTWorld REF: from HASSAN ABDULHAMID TOMIWA to OLAJIDE, BOLANLE LARE",
+        "amount": 50000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e3284127109",
+        "type": "debit",
+        "date": "2020-07-16T00:00:00.000Z",
+        "narration": "TRANSFER BETWEEN CUSTOMERS Via GTWorld REF: from HASSAN ABDULHAMID TOMIWA to JOE CHIMEZIEM",
+        "amount": 275000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e328412710a",
+        "type": "debit",
+        "date": "2020-07-15T00:00:00.000Z",
+        "narration": "POS/WEB PURCHASE TRANSACTION -- --AMINAT ALIU CATERING LA LANG ",
+        "amount": 145000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e328412710b",
+        "type": "debit",
+        "date": "2020-07-14T00:00:00.000Z",
+        "narration": "POS/WEB PURCHASE TRANSACTION -- --EAT 'N' GO LIMITED ( LA LANG ",
+        "amount": 230000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e328412710c",
+        "type": "debit",
+        "date": "2020-07-14T00:00:00.000Z",
+        "narration": "VALUE ADDED TAX VAT ON NIP TRANSFER FOR via GTWORLD TO FCMB/HASSAN MONSURAT OYINDAMOLA ReF:GW",
+        "amount": 187,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e328412710d",
+        "type": "debit",
+        "date": "2020-07-14T00:00:00.000Z",
+        "narration": "COMMISSION NIP TRANSFER COMMISSION FOR via GTWORLD TO FCMB/HASSAN MONSURAT OYINDAMOLA ReF:GW",
+        "amount": 2500,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e328412710e",
+        "type": "debit",
+        "date": "2020-07-14T00:00:00.000Z",
+        "narration": "NIBSS Instant Payment Outward via GTWORLD TO FCMB/HASSAN MONSURAT OYINDAMOLA /./REF:GW f",
+        "amount": 1000000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e328412710f",
+        "type": "debit",
+        "date": "2020-07-14T00:00:00.000Z",
+        "narration": "TRANSFER BETWEEN CUSTOMERS Via GTWorld REF: from HASSAN ABDULHAMID TOMIWA to OGUNGBEFUN OLADUNNI KHADIJAH",
+        "amount": 1000000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e3284127110",
+        "type": "debit",
+        "date": "2020-07-13T00:00:00.000Z",
+        "narration": "STAMP DUTY CHARGE STAMP DUTY CHARGE - //",
+        "amount": 5000,
+        "category": "DIYA GBAGADA"
+    },
+    {
+        "_id": "5f350a2ae6d01e3284127111",
+        "type": "debit",
+        "date": "2020-07-13T00:00:00.000Z",
+        "narration": "Airtime Purchase GTWORLD-CT-",
+        "amount": 999900,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e3284127112",
+        "type": "debit",
+        "date": "2020-07-13T00:00:00.000Z",
+        "narration": "TRANSFER BETWEEN CUSTOMERS Via GTWorld final payments for the car. REF: from HASSAN ABDULHAMID TOMIWA to PAYSTACK OPERATIONS ACCOUNT",
+        "amount": 62244500,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e3284127113",
+        "type": "credit",
+        "date": "2020-07-13T00:00:00.000Z",
+        "narration": "TRANSFER BETWEEN CUSTOMERS |Quidax NGN Withdrawal|||HASSAN ABDULHAMID TOMIWA REF: ",
+        "amount": 101819754,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e3284127114",
+        "type": "debit",
+        "date": "2020-07-11T00:00:00.000Z",
+        "narration": "STAMP DUTY CHARGE STAMP DUTY CHARGE - //",
+        "amount": 5000,
+        "category": "DIYA GBAGADA"
+    },
+    {
+        "_id": "5f350a2ae6d01e3284127115",
+        "type": "debit",
+        "date": "2020-07-11T00:00:00.000Z",
+        "narration": "CASH WITHDRAWAL FROM OTHER ATM -- --SWTUBNsnk LAGOS NG ",
+        "amount": 500000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e3284127116",
+        "type": "debit",
+        "date": "2020-07-11T00:00:00.000Z",
+        "narration": "COMMISSION |||Hassan Sherifat|.|||TRANSFER",
+        "amount": 10000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e3284127117",
+        "type": "debit",
+        "date": "2020-07-11T00:00:00.000Z",
+        "narration": "TRANSFER BETWEEN CUSTOMERS |||Hassan Sherifat|.|||TRANSFER from HASSAN ABDULHAMID TOMIWA to GTBANK MOB MONEY REMITTANCE",
+        "amount": 100000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e3284127118",
+        "type": "debit",
+        "date": "2020-07-11T00:00:00.000Z",
+        "narration": "TRANSFER BETWEEN CUSTOMERS |||Hassan Sherifat|.|.||TRANSFER from HASSAN ABDULHAMID TOMIWA to GTBANK MOB MONEY REMITTANCE",
+        "amount": 100000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e3284127119",
+        "type": "debit",
+        "date": "2020-07-11T00:00:00.000Z",
+        "narration": "COMMISSION |||Hassan Sherifat|.|.||TRANSFER",
+        "amount": 10000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e328412711a",
+        "type": "debit",
+        "date": "2020-07-11T00:00:00.000Z",
+        "narration": "TRANSFER BETWEEN CUSTOMERS Via GTWorld steering wheel REF: from HASSAN ABDULHAMID TOMIWA to MUDASHIRU, KAZEEM-MUDASHIRU",
+        "amount": 20000000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e328412711b",
+        "type": "credit",
+        "date": "2020-07-11T00:00:00.000Z",
+        "narration": "TRANSFER BETWEEN CUSTOMERS Via GTWorld REF: from OMNISCIDATA LTD to HASSAN ABDULHAMID TOMIWA",
+        "amount": 20000000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e328412711c",
+        "type": "debit",
+        "date": "2020-07-10T00:00:00.000Z",
+        "narration": "VALUE ADDED TAX VAT ON NIP TRANSFER FOR via GTWORLD TO ZBN/PAYSTACK VIRTUAL MANAGED ACCT PAYSTACK ReF:GW",
+        "amount": 75,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e328412711d",
+        "type": "debit",
+        "date": "2020-07-10T00:00:00.000Z",
+        "narration": "COMMISSION NIP TRANSFER COMMISSION FOR via GTWORLD TO ZBN/PAYSTACK VIRTUAL MANAGED ACCT PAYSTACK ReF:GW",
+        "amount": 1000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e328412711e",
+        "type": "debit",
+        "date": "2020-07-10T00:00:00.000Z",
+        "narration": "NIBSS Instant Payment Outward via GTWORLD TO ZBN/PAYSTACK VIRTUAL MANAGED ACCT PAYSTACK /./REF:GW ",
+        "amount": 350000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e328412711f",
+        "type": "debit",
+        "date": "2020-07-10T00:00:00.000Z",
+        "narration": "VALUE ADDED TAX VAT ON NIP TRANSFER FOR via GTWORLD TO ZBN/PAYSTACK VIRTUAL MANAGED ACCT PAYSTACK ReF:GW",
+        "amount": 75,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e3284127120",
+        "type": "debit",
+        "date": "2020-07-10T00:00:00.000Z",
+        "narration": "COMMISSION NIP TRANSFER COMMISSION FOR via GTWORLD TO ZBN/PAYSTACK VIRTUAL MANAGED ACCT PAYSTACK ReF:GW",
+        "amount": 1000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e3284127121",
+        "type": "debit",
+        "date": "2020-07-10T00:00:00.000Z",
+        "narration": "NIBSS Instant Payment Outward via GTWORLD TO ZBN/PAYSTACK VIRTUAL MANAGED ACCT PAYSTACK /./REF:GW ",
+        "amount": 500000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e3284127122",
+        "type": "debit",
+        "date": "2020-07-10T00:00:00.000Z",
+        "narration": "Airtime Purchase GTWORLD_QL-CT-",
+        "amount": 499900,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e3284127123",
+        "type": "debit",
+        "date": "2020-07-09T00:00:00.000Z",
+        "narration": "TRANSFER BETWEEN CUSTOMERS Via GTWorld Abdul REF: from HASSAN ABDULHAMID TOMIWA to SALAUDEEN AISHAH ANUOLUWAPO",
+        "amount": 550000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e3284127124",
+        "type": "debit",
+        "date": "2020-07-09T00:00:00.000Z",
+        "narration": "POS/WEB PURCHASE TRANSACTION -- --AMINAT ALIU CATERING LA LANG ",
+        "amount": 190000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e3284127125",
+        "type": "debit",
+        "date": "2020-07-09T00:00:00.000Z",
+        "narration": "TRANSFER BETWEEN CUSTOMERS Via GTWorld REF: from HASSAN ABDULHAMID TOMIWA to ISAH JOSEPH",
+        "amount": 80000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e3284127126",
+        "type": "debit",
+        "date": "2020-07-09T00:00:00.000Z",
+        "narration": "TRANSFER BETWEEN CUSTOMERS via GTPAY FLW__GTPay on https://www.flutterwave.com/ from HASSAN ABDULHAMID TOMIWA to GTB IMPERSONAL LEDGERS REF: from HASSAN ABDULHAMID TOMIWA to GTPAY HOL",
+        "amount": 461000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e3284127127",
+        "type": "debit",
+        "date": "2020-07-08T00:00:00.000Z",
+        "narration": "VALUE ADDED TAX VAT ON NIP TRANSFER FOR via GTWORLD TO ZBN/MUSA PINIKI UMAR ReF:GW",
+        "amount": 75,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e3284127128",
+        "type": "debit",
+        "date": "2020-07-08T00:00:00.000Z",
+        "narration": "COMMISSION NIP TRANSFER COMMISSION FOR via GTWORLD TO ZBN/MUSA PINIKI UMAR ReF:GW",
+        "amount": 1000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e3284127129",
+        "type": "debit",
+        "date": "2020-07-08T00:00:00.000Z",
+        "narration": "NIBSS Instant Payment Outward via GTWORLD TO ZBN/MUSA PINIKI UMAR /./REF:GW ",
+        "amount": 230000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e328412712a",
+        "type": "debit",
+        "date": "2020-07-07T00:00:00.000Z",
+        "narration": "STAMP DUTY CHARGE STAMP DUTY CHARGE - //",
+        "amount": 5000,
+        "category": "DIYA GBAGADA"
+    },
+    {
+        "_id": "5f350a2ae6d01e328412712b",
+        "type": "debit",
+        "date": "2020-07-07T00:00:00.000Z",
+        "narration": "POS/WEB PURCHASE TRANSACTION -- --EAT 'N' GO LIMITED ( LA LANG ",
+        "amount": 285000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e328412712c",
+        "type": "credit",
+        "date": "2020-07-07T00:00:00.000Z",
+        "narration": "TRANSFER BETWEEN CUSTOMERS |BAMBOO INVEST WITHDRAWAL|||HASSAN ABDULHAMID TOMIWA REF: ",
+        "amount": 1485000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e328412712d",
+        "type": "debit",
+        "date": "2020-07-07T00:00:00.000Z",
+        "narration": "POS/WEB PURCHASE TRANSACTION -- --ECART INTERNET SERVICESLA LANG ",
+        "amount": 378300,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e328412712e",
+        "type": "debit",
+        "date": "2020-07-06T00:00:00.000Z",
+        "narration": "VALUE ADDED TAX VAT ON NIP TRANSFER FOR via GTWORLD TO DBN/EPE THOMAS OGBOLE ReF:GW",
+        "amount": 75,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e328412712f",
+        "type": "debit",
+        "date": "2020-07-06T00:00:00.000Z",
+        "narration": "COMMISSION NIP TRANSFER COMMISSION FOR via GTWORLD TO DBN/EPE THOMAS OGBOLE ReF:GW",
+        "amount": 1000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e3284127130",
+        "type": "debit",
+        "date": "2020-07-06T00:00:00.000Z",
+        "narration": "NIBSS Instant Payment Outward via GTWORLD TO DBN/EPE THOMAS OGBOLE /./REF:GW f",
+        "amount": 185000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e3284127131",
+        "type": "debit",
+        "date": "2020-07-06T00:00:00.000Z",
+        "narration": "POS/WEB PURCHASE TRANSACTION -- --DIGITALOCEAN.COM NYUS . USD ",
+        "amount": 1359150,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e3284127132",
+        "type": "debit",
+        "date": "2020-07-05T00:00:00.000Z",
+        "narration": "TRANSFER BETWEEN CUSTOMERS Via GTWorld REF: from HASSAN ABDULHAMID TOMIWA to OKPALA MARTIN CHIMEZIE",
+        "amount": 225000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e3284127133",
+        "type": "debit",
+        "date": "2020-07-03T00:00:00.000Z",
+        "narration": "VALUE ADDED TAX VAT ON NIP TRANSFER FOR via GTWORLD TO DBN/EPE THOMAS OGBOLE ReF:GW",
+        "amount": 75,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e3284127134",
+        "type": "debit",
+        "date": "2020-07-03T00:00:00.000Z",
+        "narration": "COMMISSION NIP TRANSFER COMMISSION FOR via GTWORLD TO DBN/EPE THOMAS OGBOLE ReF:GW",
+        "amount": 1000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e3284127135",
+        "type": "debit",
+        "date": "2020-07-03T00:00:00.000Z",
+        "narration": "NIBSS Instant Payment Outward via GTWORLD TO DBN/EPE THOMAS OGBOLE /./REF:GW f",
+        "amount": 155000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e3284127136",
+        "type": "debit",
+        "date": "2020-07-02T00:00:00.000Z",
+        "narration": "VALUE ADDED TAX VAT ON NIP TRANSFER FOR via GTWORLD TO FB/TAWAKKALT ADESHOLA ADEWUSI ReF:GW",
+        "amount": 75,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e3284127137",
+        "type": "debit",
+        "date": "2020-07-02T00:00:00.000Z",
+        "narration": "COMMISSION NIP TRANSFER COMMISSION FOR via GTWORLD TO FB/TAWAKKALT ADESHOLA ADEWUSI ReF:GW",
+        "amount": 1000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e3284127138",
+        "type": "debit",
+        "date": "2020-07-02T00:00:00.000Z",
+        "narration": "NIBSS Instant Payment Outward via GTWORLD TO FB/TAWAKKALT ADESHOLA ADEWUSI /./REF:GW f",
+        "amount": 500000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e3284127139",
+        "type": "debit",
+        "date": "2020-07-02T00:00:00.000Z",
+        "narration": "POS/WEB PURCHASE TRANSACTION -- --BC.HEY ILUS USD ",
+        "amount": 3861000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e328412713a",
+        "type": "debit",
+        "date": "2020-07-01T00:00:00.000Z",
+        "narration": "STAMP DUTY CHARGE STAMP DUTY CHARGE - //",
+        "amount": 5000,
+        "category": "DIYA GBAGADA"
+    },
+    {
+        "_id": "5f350a2ae6d01e328412713b",
+        "type": "debit",
+        "date": "2020-07-01T00:00:00.000Z",
+        "narration": "Airtime Purchase GTWORLD_QL-CT-",
+        "amount": 100000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e328412713c",
+        "type": "credit",
+        "date": "2020-07-01T00:00:00.000Z",
+        "narration": "TRANSFER BETWEEN CUSTOMERS Via GTWorld REF: from OMNISCIDATA LTD to HASSAN ABDULHAMID TOMIWA",
+        "amount": 22200000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e328412713d",
+        "type": "debit",
+        "date": "2020-06-30T00:00:00.000Z",
+        "narration": "MATURED LOAN INSTALLMENT ",
+        "amount": 19700989,
+        "category": "DIYA GBAGADA"
+    },
+    {
+        "_id": "5f350a2ae6d01e328412713e",
+        "type": "debit",
+        "date": "2020-06-28T00:00:00.000Z",
+        "narration": "ATM WITHDRAWAL COMMISSION -- -- UBA H MA YABA NG ",
+        "amount": 3500,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e328412713f",
+        "type": "debit",
+        "date": "2020-06-28T00:00:00.000Z",
+        "narration": "CASH WITHDRAWAL FROM OTHER ATM -- -- UBA H MA YABA NG ",
+        "amount": 1000000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e3284127140",
+        "type": "debit",
+        "date": "2020-06-27T00:00:00.000Z",
+        "narration": "STANDING ORDER SMS ALERT CHARGE FOR MAY-JUNE",
+        "amount": 30400,
+        "category": "DIYA GBAGADA"
+    },
+    {
+        "_id": "5f350a2ae6d01e3284127141",
+        "type": "debit",
+        "date": "2020-06-27T00:00:00.000Z",
+        "narration": "TRANSFER BETWEEN CUSTOMERS Via GTWorld REF: from HASSAN ABDULHAMID TOMIWA to OBAZEE, OSAROBO FREDRICK",
+        "amount": 90000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e3284127142",
+        "type": "debit",
+        "date": "2020-06-27T00:00:00.000Z",
+        "narration": "POS/WEB PURCHASE TRANSACTION -- --LASERDERM CLINICS LIMITLA LANG ",
+        "amount": 3400000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e3284127143",
+        "type": "debit",
+        "date": "2020-06-26T00:00:00.000Z",
+        "narration": "VALUE ADDED TAX VAT ON NIP TRANSFER FOR via GTWORLD TO ZBN/ABIMBOLA TOBI AKINTUNDE ReF:GW",
+        "amount": 75,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e3284127144",
+        "type": "debit",
+        "date": "2020-06-26T00:00:00.000Z",
+        "narration": "COMMISSION NIP TRANSFER COMMISSION FOR via GTWORLD TO ZBN/ABIMBOLA TOBI AKINTUNDE ReF:GW",
+        "amount": 1000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e3284127145",
+        "type": "debit",
+        "date": "2020-06-26T00:00:00.000Z",
+        "narration": "NIBSS Instant Payment Outward via GTWORLD TO ZBN/ABIMBOLA TOBI AKINTUNDE /./REF:GW f",
+        "amount": 100000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e3284127146",
+        "type": "debit",
+        "date": "2020-06-26T00:00:00.000Z",
+        "narration": "POS/WEB PURCHASE TRANSACTION -- --LASERDERM CLINICS LIMITLA LANG ",
+        "amount": 1896300,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e3284127147",
+        "type": "debit",
+        "date": "2020-06-26T00:00:00.000Z",
+        "narration": "POS/WEB PURCHASE TRANSACTION -- --LASERDERM CLINICS LIMITLA LANG ",
+        "amount": 1500000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e3284127148",
+        "type": "debit",
+        "date": "2020-06-26T00:00:00.000Z",
+        "narration": "TRANSFER BETWEEN CUSTOMERS Via GTWorld REF: from HASSAN ABDULHAMID TOMIWA to ODUNEYE OLUSEGUN ABAYOMI",
+        "amount": 100000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e3284127149",
+        "type": "debit",
+        "date": "2020-06-26T00:00:00.000Z",
+        "narration": "POS/WEB PURCHASE TRANSACTION -- --MALLMART HYPERMARKET LANG NG ",
+        "amount": 1189000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e328412714a",
+        "type": "debit",
+        "date": "2020-06-25T00:00:00.000Z",
+        "narration": "TRANSFER BETWEEN CUSTOMERS Via GTWorld REF: from HASSAN ABDULHAMID TOMIWA to IGBOAHAZIA RITA TOCHUKWU",
+        "amount": 1850000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e328412714b",
+        "type": "credit",
+        "date": "2020-06-25T00:00:00.000Z",
+        "narration": "TRANSFER BETWEEN CUSTOMERS |BAMBOO INVEST WITHDRAWAL|||HASSAN ABDULHAMID TOMIWA REF: ",
+        "amount": 890000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e328412714c",
+        "type": "debit",
+        "date": "2020-06-24T00:00:00.000Z",
+        "narration": "TRANSFER BETWEEN CUSTOMERS Via GTWorld REF: from HASSAN ABDULHAMID TOMIWA to HARUNA, BENJAMIN AMEH",
+        "amount": 670000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e328412714d",
+        "type": "debit",
+        "date": "2020-06-24T00:00:00.000Z",
+        "narration": "VALUE ADDED TAX VAT ON NIP TRANSFER FOR via GTWORLD TO STERLING/ADEKOYA DARE JOSEPH ReF:GW",
+        "amount": 75,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e328412714e",
+        "type": "debit",
+        "date": "2020-06-24T00:00:00.000Z",
+        "narration": "COMMISSION NIP TRANSFER COMMISSION FOR via GTWORLD TO STERLING/ADEKOYA DARE JOSEPH ReF:GW",
+        "amount": 1000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e328412714f",
+        "type": "debit",
+        "date": "2020-06-24T00:00:00.000Z",
+        "narration": "NIBSS Instant Payment Outward via GTWORLD TO STERLING/ADEKOYA DARE JOSEPH /./REF:GW f",
+        "amount": 400000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e3284127150",
+        "type": "debit",
+        "date": "2020-06-24T00:00:00.000Z",
+        "narration": "VALUE ADDED TAX VAT ON NIP TRANSFER FOR via GTWORLD TO UBA/AMUSAT, USMAN ABIOLA ReF:GW",
+        "amount": 187,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e3284127151",
+        "type": "debit",
+        "date": "2020-06-24T00:00:00.000Z",
+        "narration": "COMMISSION NIP TRANSFER COMMISSION FOR via GTWORLD TO UBA/AMUSAT, USMAN ABIOLA ReF:GW",
+        "amount": 2500,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e3284127152",
+        "type": "debit",
+        "date": "2020-06-24T00:00:00.000Z",
+        "narration": "NIBSS Instant Payment Outward via GTWORLD TO UBA/AMUSAT, USMAN ABIOLA /./REF:GW f",
+        "amount": 5000000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e3284127153",
+        "type": "debit",
+        "date": "2020-06-23T00:00:00.000Z",
+        "narration": "STAMP DUTY CHARGE STAMP DUTY CHARGE - //",
+        "amount": 5000,
+        "category": "DIYA GBAGADA"
+    },
+    {
+        "_id": "5f350a2ae6d01e3284127154",
+        "type": "credit",
+        "date": "2020-06-23T00:00:00.000Z",
+        "narration": "TRANSFER BETWEEN CUSTOMERS |BAMBOO INVEST WITHDRAWAL|||HASSAN ABDULHAMID TOMIWA REF: ",
+        "amount": 6600000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e3284127155",
+        "type": "debit",
+        "date": "2020-06-22T00:00:00.000Z",
+        "narration": "STAMP DUTY CHARGE STAMP DUTY CHARGE - //",
+        "amount": 5000,
+        "category": "DIYA GBAGADA"
+    },
+    {
+        "_id": "5f350a2ae6d01e3284127156",
+        "type": "debit",
+        "date": "2020-06-22T00:00:00.000Z",
+        "narration": "Airtime Purchase GTWORLD_QL-CT-",
+        "amount": 499900,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e3284127157",
+        "type": "credit",
+        "date": "2020-06-22T00:00:00.000Z",
+        "narration": "FAILED NIBSS INSTANT PAYMENT NIP Reversal: Failure From Beneficiary Bank REF:",
+        "amount": 75,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e3284127158",
+        "type": "credit",
+        "date": "2020-06-22T00:00:00.000Z",
+        "narration": "FAILED NIBSS INSTANT PAYMENT NIP Reversal: Failure From Beneficiary Bank REF:",
+        "amount": 1000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e3284127159",
+        "type": "credit",
+        "date": "2020-06-22T00:00:00.000Z",
+        "narration": "FAILED NIBSS INSTANT PAYMENT NIP Reversal: Failure From Beneficiary Bank REF:",
+        "amount": 20000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e328412715a",
+        "type": "debit",
+        "date": "2020-06-22T00:00:00.000Z",
+        "narration": "VALUE ADDED TAX VAT ON NIP TRANSFER FOR via GTWORLD TO PROVIDUS/pwt ReF:GW",
+        "amount": 75,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e328412715b",
+        "type": "debit",
+        "date": "2020-06-22T00:00:00.000Z",
+        "narration": "COMMISSION NIP TRANSFER COMMISSION FOR via GTWORLD TO PROVIDUS/pwt ReF:GW",
+        "amount": 1000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e328412715c",
+        "type": "debit",
+        "date": "2020-06-22T00:00:00.000Z",
+        "narration": "FAILED NIBSS INSTANT PAYMENT via GTWORLD TO PROVIDUS/pwt /./REF:GW f",
+        "amount": 100000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e328412715d",
+        "type": "credit",
+        "date": "2020-06-22T00:00:00.000Z",
+        "narration": "FAILED NIBSS INSTANT PAYMENT NIP Reversal: Failure From Beneficiary Bank REF:",
+        "amount": 75,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e328412715e",
+        "type": "credit",
+        "date": "2020-06-22T00:00:00.000Z",
+        "narration": "FAILED NIBSS INSTANT PAYMENT NIP Reversal: Failure From Beneficiary Bank REF:",
+        "amount": 1000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e328412715f",
+        "type": "credit",
+        "date": "2020-06-22T00:00:00.000Z",
+        "narration": "FAILED NIBSS INSTANT PAYMENT NIP Reversal: Failure From Beneficiary Bank REF:",
+        "amount": 100000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e3284127160",
+        "type": "debit",
+        "date": "2020-06-22T00:00:00.000Z",
+        "narration": "VALUE ADDED TAX VAT ON NIP TRANSFER FOR via GTWORLD TO PROVIDUS/pwt ReF:GW",
+        "amount": 75,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e3284127161",
+        "type": "debit",
+        "date": "2020-06-22T00:00:00.000Z",
+        "narration": "COMMISSION NIP TRANSFER COMMISSION FOR via GTWORLD TO PROVIDUS/pwt ReF:GW",
+        "amount": 1000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e3284127162",
+        "type": "debit",
+        "date": "2020-06-22T00:00:00.000Z",
+        "narration": "FAILED NIBSS INSTANT PAYMENT via GTWORLD TO PROVIDUS/pwt /./REF:GW f",
+        "amount": 20000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e3284127163",
+        "type": "debit",
+        "date": "2020-06-22T00:00:00.000Z",
+        "narration": "TRANSFER BETWEEN CUSTOMERS Via GTWorld REF: from HASSAN ABDULHAMID TOMIWA to PAYSTACK OPERATIONS ACCOUNT",
+        "amount": 40000000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e3284127164",
+        "type": "debit",
+        "date": "2020-06-22T00:00:00.000Z",
+        "narration": "VALUE ADDED TAX VAT ON NIP TRANSFER FOR via GTWORLD TO WEMA/SPleet ReF:GW",
+        "amount": 375,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e3284127165",
+        "type": "debit",
+        "date": "2020-06-22T00:00:00.000Z",
+        "narration": "COMMISSION NIP TRANSFER COMMISSION FOR via GTWORLD TO WEMA/SPleet ReF:GW",
+        "amount": 5000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e3284127166",
+        "type": "debit",
+        "date": "2020-06-22T00:00:00.000Z",
+        "narration": "NIBSS Instant Payment Outward via GTWORLD TO WEMA/SPleet /./REF:GW f",
+        "amount": 15170500,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e3284127167",
+        "type": "credit",
+        "date": "2020-06-22T00:00:00.000Z",
+        "narration": "TRANSFER BETWEEN CUSTOMERS |web:App: tf, To GTBank Plc HASSAN ABDULHAMID TOMIWA|S||KOMOLAFE OLUWOLE VICTOR AND KOMOLAFE DORCAS VIHIMG REF: ",
+        "amount": 74470200,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e3284127168",
+        "type": "debit",
+        "date": "2020-06-21T00:00:00.000Z",
+        "narration": "Airtime Purchase GTWORLD_QL-CT-",
+        "amount": 100000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e3284127169",
+        "type": "debit",
+        "date": "2020-06-21T00:00:00.000Z",
+        "narration": "VALUE ADDED TAX VAT ON NIP TRANSFER FOR via GTWORLD Alhaja namaco TO FBN/ADEDAYO OMOLARA GRACE ReF:GW",
+        "amount": 187,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e328412716a",
+        "type": "debit",
+        "date": "2020-06-21T00:00:00.000Z",
+        "narration": "COMMISSION NIP TRANSFER COMMISSION FOR via GTWORLD Alhaja namaco TO FBN/ADEDAYO OMOLARA GRACE ReF:GW",
+        "amount": 2500,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e328412716b",
+        "type": "debit",
+        "date": "2020-06-21T00:00:00.000Z",
+        "narration": "NIBSS Instant Payment Outward via GTWORLD Alhaja namaco TO FBN/ADEDAYO OMOLARA GRACE /./REF:GW f",
+        "amount": 2000000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e328412716c",
+        "type": "debit",
+        "date": "2020-06-21T00:00:00.000Z",
+        "narration": "VALUE ADDED TAX VAT ON NIP TRANSFER FOR via GTWORLD TO FB/TAWAKKALT ADESHOLA ADEWUSI ReF:GW",
+        "amount": 187,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e328412716d",
+        "type": "debit",
+        "date": "2020-06-21T00:00:00.000Z",
+        "narration": "COMMISSION NIP TRANSFER COMMISSION FOR via GTWORLD TO FB/TAWAKKALT ADESHOLA ADEWUSI ReF:GW",
+        "amount": 2500,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e328412716e",
+        "type": "debit",
+        "date": "2020-06-21T00:00:00.000Z",
+        "narration": "NIBSS Instant Payment Outward via GTWORLD TO FB/TAWAKKALT ADESHOLA ADEWUSI /./REF:GW f",
+        "amount": 1000000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e328412716f",
+        "type": "debit",
+        "date": "2020-06-20T00:00:00.000Z",
+        "narration": "ATM WITHDRAWAL COMMISSION -- -- UBA H MA YABA NG ",
+        "amount": 3500,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e3284127170",
+        "type": "debit",
+        "date": "2020-06-20T00:00:00.000Z",
+        "narration": "CASH WITHDRAWAL FROM OTHER ATM -- -- UBA H MA YABA NG ",
+        "amount": 1000000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e3284127171",
+        "type": "debit",
+        "date": "2020-06-20T00:00:00.000Z",
+        "narration": "ATM WITHDRAWAL COMMISSION -- -- UBA H MA YABA NG ",
+        "amount": 3500,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e3284127172",
+        "type": "debit",
+        "date": "2020-06-20T00:00:00.000Z",
+        "narration": "CASH WITHDRAWAL FROM OTHER ATM -- -- UBA H MA YABA NG ",
+        "amount": 1000000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e3284127173",
+        "type": "debit",
+        "date": "2020-06-20T00:00:00.000Z",
+        "narration": "ATM WITHDRAWAL COMMISSION -- -- UBA H MA YABA NG ",
+        "amount": 3500,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e3284127174",
+        "type": "debit",
+        "date": "2020-06-20T00:00:00.000Z",
+        "narration": "CASH WITHDRAWAL FROM OTHER ATM -- -- UBA H MA YABA NG ",
+        "amount": 1000000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e3284127175",
+        "type": "credit",
+        "date": "2020-06-20T00:00:00.000Z",
+        "narration": "ATM TRANSACTION REVERSAL -- -- UBA H MA YABA NG ",
+        "amount": 1000000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e3284127176",
+        "type": "credit",
+        "date": "2020-06-20T00:00:00.000Z",
+        "narration": "ATM WITHDRAWAL COMMISSION REVERSAL -- -- UBA H MA YABA NG ",
+        "amount": 3500,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e3284127177",
+        "type": "debit",
+        "date": "2020-06-20T00:00:00.000Z",
+        "narration": "ATM WITHDRAWAL COMMISSION -- -- UBA H MA YABA NG ",
+        "amount": 3500,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e3284127178",
+        "type": "debit",
+        "date": "2020-06-20T00:00:00.000Z",
+        "narration": "CASH WITHDRAWAL FROM OTHER ATM -- -- UBA H MA YABA NG ",
+        "amount": 500000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e3284127179",
+        "type": "debit",
+        "date": "2020-06-19T00:00:00.000Z",
+        "narration": "POS/WEB PURCHASE TRANSACTION -- --MALLMART HYPERMARKET LA LANG ",
+        "amount": 1395050,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e328412717a",
+        "type": "debit",
+        "date": "2020-06-18T00:00:00.000Z",
+        "narration": "VALUE ADDED TAX VAT ON NIP TRANSFER FOR via GTWORLD TO UBA/PAPIEES PLACE ANIMART LTD ReF:GW",
+        "amount": 75,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e328412717b",
+        "type": "debit",
+        "date": "2020-06-18T00:00:00.000Z",
+        "narration": "COMMISSION NIP TRANSFER COMMISSION FOR via GTWORLD TO UBA/PAPIEES PLACE ANIMART LTD ReF:GW",
+        "amount": 1000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e328412717c",
+        "type": "debit",
+        "date": "2020-06-18T00:00:00.000Z",
+        "narration": "NIBSS Instant Payment Outward via GTWORLD TO UBA/PAPIEES PLACE ANIMART LTD /./REF:GW f",
+        "amount": 200000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e328412717d",
+        "type": "debit",
+        "date": "2020-06-17T00:00:00.000Z",
+        "narration": "TRANSFER BETWEEN CUSTOMERS Via GTWorld REF: from HASSAN ABDULHAMID TOMIWA to OLAJIDE, BOLANLE LARE",
+        "amount": 100000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e328412717e",
+        "type": "debit",
+        "date": "2020-06-15T00:00:00.000Z",
+        "narration": "ATM WITHDRAWAL COMMISSION -- --SWTUBNsnk LAGOS NG ",
+        "amount": 3500,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e328412717f",
+        "type": "debit",
+        "date": "2020-06-15T00:00:00.000Z",
+        "narration": "CASH WITHDRAWAL FROM OTHER ATM -- --SWTUBNsnk LAGOS NG ",
+        "amount": 500000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e3284127180",
+        "type": "debit",
+        "date": "2020-06-14T00:00:00.000Z",
+        "narration": "POS/WEB PURCHASE TRANSACTION -- --MALLMART HYPERMARKET LA LANG ",
+        "amount": 900800,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e3284127181",
+        "type": "debit",
+        "date": "2020-06-13T00:00:00.000Z",
+        "narration": "POS/WEB PURCHASE TRANSACTION -- --POS - EAT N GO -DP- LA LANG ",
+        "amount": 370000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e3284127182",
+        "type": "debit",
+        "date": "2020-06-11T00:00:00.000Z",
+        "narration": "POS/WEB PURCHASE TRANSACTION -- --pay.flutterwave.com Pa LEKKI PHASE NG ",
+        "amount": 445000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e3284127183",
+        "type": "debit",
+        "date": "2020-06-11T00:00:00.000Z",
+        "narration": "TRANSFER BETWEEN CUSTOMERS Via GTWorld REF: from HASSAN ABDULHAMID TOMIWA to OMHENIMHEN SMITH ROBERT",
+        "amount": 1584000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e3284127184",
+        "type": "debit",
+        "date": "2020-06-11T00:00:00.000Z",
+        "narration": "CASH WITHDRAWAL FROM OTHER ATM -- --SWTUBNsnk LAGOS NG ",
+        "amount": 1000000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e3284127185",
+        "type": "debit",
+        "date": "2020-06-10T00:00:00.000Z",
+        "narration": "POS/WEB PURCHASE TRANSACTION -- --AFENA PARTNERS LIMIT LA LANG ",
+        "amount": 86000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e3284127186",
+        "type": "debit",
+        "date": "2020-06-10T00:00:00.000Z",
+        "narration": "POS/WEB PURCHASE TRANSACTION -- --ECART INTERNET SERV LA LANG ",
+        "amount": 796900,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e3284127187",
+        "type": "debit",
+        "date": "2020-06-10T00:00:00.000Z",
+        "narration": "VALUE ADDED TAX VAT ON NIP TRANSFER FOR via GTWORLD TO FCMB/HASSAN MONSURAT OYINDAMOLA ReF:GW",
+        "amount": 75,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e3284127188",
+        "type": "debit",
+        "date": "2020-06-10T00:00:00.000Z",
+        "narration": "COMMISSION NIP TRANSFER COMMISSION FOR via GTWORLD TO FCMB/HASSAN MONSURAT OYINDAMOLA ReF:GW",
+        "amount": 1000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e3284127189",
+        "type": "debit",
+        "date": "2020-06-10T00:00:00.000Z",
+        "narration": "NIBSS Instant Payment Outward via GTWORLD TO FCMB/HASSAN MONSURAT OYINDAMOLA /./REF:GW f",
+        "amount": 500000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e328412718a",
+        "type": "debit",
+        "date": "2020-06-09T00:00:00.000Z",
+        "narration": "TRANSFER BETWEEN CUSTOMERS |||Hassan Sherifat|.|.||TRANSFER from HASSAN ABDULHAMID TOMIWA to GTBANK MOB MONEY REMITTANCE",
+        "amount": 200000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e328412718b",
+        "type": "debit",
+        "date": "2020-06-09T00:00:00.000Z",
+        "narration": "COMMISSION |||Hassan Sherifat|.|.||TRANSFER",
+        "amount": 10000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e328412718c",
+        "type": "debit",
+        "date": "2020-06-09T00:00:00.000Z",
+        "narration": "CASH WITHDRAWAL FROM OTHER ATM -- -- UBA H MA YABA NG ",
+        "amount": 1000000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e328412718d",
+        "type": "debit",
+        "date": "2020-06-09T00:00:00.000Z",
+        "narration": "TRANSFER BETWEEN CUSTOMERS Via GTWorld REF: from HASSAN ABDULHAMID TOMIWA to ABOLARIN, ABDULJELIL AREMU",
+        "amount": 50000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e328412718e",
+        "type": "debit",
+        "date": "2020-06-09T00:00:00.000Z",
+        "narration": "POS/WEB PURCHASE TRANSACTION -- --JUMIA LA LANG ",
+        "amount": 534000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e328412718f",
+        "type": "debit",
+        "date": "2020-06-08T00:00:00.000Z",
+        "narration": "TRANSFER BETWEEN CUSTOMERS Via GTWorld REF: from HASSAN ABDULHAMID TOMIWA to KEWA'S KITCHEN",
+        "amount": 50000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e3284127190",
+        "type": "debit",
+        "date": "2020-06-08T00:00:00.000Z",
+        "narration": "TRANSFER BETWEEN CUSTOMERS Via GTWorld REF: from HASSAN ABDULHAMID TOMIWA to KEWA'S KITCHEN",
+        "amount": 300000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e3284127191",
+        "type": "debit",
+        "date": "2020-06-07T00:00:00.000Z",
+        "narration": "VALUE ADDED TAX VAT ON NIP TRANSFER FOR via GTWORLD TO STERLING/ADEKOYA DARE JOSEPH ReF:GW",
+        "amount": 187,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e3284127192",
+        "type": "debit",
+        "date": "2020-06-07T00:00:00.000Z",
+        "narration": "COMMISSION NIP TRANSFER COMMISSION FOR via GTWORLD TO STERLING/ADEKOYA DARE JOSEPH ReF:GW",
+        "amount": 2500,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e3284127193",
+        "type": "debit",
+        "date": "2020-06-07T00:00:00.000Z",
+        "narration": "NIBSS Instant Payment Outward via GTWORLD TO STERLING/ADEKOYA DARE JOSEPH /./REF:GW f",
+        "amount": 921300,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e3284127194",
+        "type": "debit",
+        "date": "2020-06-07T00:00:00.000Z",
+        "narration": "TRANSFER BETWEEN CUSTOMERS Via GTWorld REF: from HASSAN ABDULHAMID TOMIWA to OGUNGBEFUN OLADUNNI KHADIJAH",
+        "amount": 1000000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e3284127195",
+        "type": "debit",
+        "date": "2020-06-06T00:00:00.000Z",
+        "narration": "VALUE ADDED TAX VAT ON NIP TRANSFER FOR via GTWORLD TO FB/TAWAKKALT ADESHOLA ADEWUSI ReF:GW",
+        "amount": 187,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e3284127196",
+        "type": "debit",
+        "date": "2020-06-06T00:00:00.000Z",
+        "narration": "COMMISSION NIP TRANSFER COMMISSION FOR via GTWORLD TO FB/TAWAKKALT ADESHOLA ADEWUSI ReF:GW",
+        "amount": 2500,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e3284127197",
+        "type": "debit",
+        "date": "2020-06-06T00:00:00.000Z",
+        "narration": "NIBSS Instant Payment Outward via GTWORLD TO FB/TAWAKKALT ADESHOLA ADEWUSI /./REF:GW f",
+        "amount": 1000000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e3284127198",
+        "type": "debit",
+        "date": "2020-06-06T00:00:00.000Z",
+        "narration": "POS/WEB PURCHASE TRANSACTION -- --PG-W-/OGOHOST LANG ",
+        "amount": 1900000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e3284127199",
+        "type": "debit",
+        "date": "2020-06-06T00:00:00.000Z",
+        "narration": "VALUE ADDED TAX VAT ON NIP TRANSFER FOR via GTWORLD TO WEMA/ABDULHAMID HASSAN ReF:GW",
+        "amount": 75,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e328412719a",
+        "type": "debit",
+        "date": "2020-06-06T00:00:00.000Z",
+        "narration": "COMMISSION NIP TRANSFER COMMISSION FOR via GTWORLD TO WEMA/ABDULHAMID HASSAN ReF:GW",
+        "amount": 1000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e328412719b",
+        "type": "debit",
+        "date": "2020-06-06T00:00:00.000Z",
+        "narration": "NIBSS Instant Payment Outward via GTWORLD TO WEMA/ABDULHAMID HASSAN /./REF:GW f",
+        "amount": 20000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e328412719c",
+        "type": "debit",
+        "date": "2020-06-05T00:00:00.000Z",
+        "narration": "VALUE ADDED TAX VAT ON NIP TRANSFER FOR via GTWORLD TO FCMB/HASSAN MONSURAT OYINDAMOLA ReF:GW",
+        "amount": 187,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e328412719d",
+        "type": "debit",
+        "date": "2020-06-05T00:00:00.000Z",
+        "narration": "COMMISSION NIP TRANSFER COMMISSION FOR via GTWORLD TO FCMB/HASSAN MONSURAT OYINDAMOLA ReF:GW",
+        "amount": 2500,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e328412719e",
+        "type": "debit",
+        "date": "2020-06-05T00:00:00.000Z",
+        "narration": "NIBSS Instant Payment Outward via GTWORLD TO FCMB/HASSAN MONSURAT OYINDAMOLA /./REF:GW f",
+        "amount": 900000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e328412719f",
+        "type": "debit",
+        "date": "2020-06-05T00:00:00.000Z",
+        "narration": "VALUE ADDED TAX VAT ON NIP TRANSFER FOR via GTWORLD TO FCMB/AJAYI DAMILOLA FATIMO ReF:GW",
+        "amount": 75,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e32841271a0",
+        "type": "debit",
+        "date": "2020-06-05T00:00:00.000Z",
+        "narration": "COMMISSION NIP TRANSFER COMMISSION FOR via GTWORLD TO FCMB/AJAYI DAMILOLA FATIMO ReF:GW",
+        "amount": 1000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e32841271a1",
+        "type": "debit",
+        "date": "2020-06-05T00:00:00.000Z",
+        "narration": "NIBSS Instant Payment Outward via GTWORLD TO FCMB/AJAYI DAMILOLA FATIMO /./REF:GW f",
+        "amount": 450000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e32841271a2",
+        "type": "debit",
+        "date": "2020-06-04T00:00:00.000Z",
+        "narration": "POS/WEB PURCHASE TRANSACTION -- --MALLMART HYPERMARKET LA LANG ",
+        "amount": 1842825,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e32841271a3",
+        "type": "debit",
+        "date": "2020-06-03T00:00:00.000Z",
+        "narration": "POS/WEB PURCHASE TRANSACTION -- --PG-AXA MANSA/D INS-URANCE P LANG ",
+        "amount": 8977500,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e32841271a4",
+        "type": "debit",
+        "date": "2020-06-02T00:00:00.000Z",
+        "narration": "Airtime Purchase GTWORLD_QL-CT-",
+        "amount": 150000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e32841271a5",
+        "type": "debit",
+        "date": "2020-06-02T00:00:00.000Z",
+        "narration": "CASH WITHDRAWAL FROM OTHER ATM -- --WND_YABA_ LAGOS NG ",
+        "amount": 1000000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e32841271a6",
+        "type": "debit",
+        "date": "2020-06-02T00:00:00.000Z",
+        "narration": "POS/WEB PURCHASE TRANSACTION -- --DIGITALOCEAN.COM NYUS USD ",
+        "amount": 1365000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e32841271a7",
+        "type": "debit",
+        "date": "2020-06-01T00:00:00.000Z",
+        "narration": "STAMP DUTY CHARGE STAMP DUTY CHARGE - //",
+        "amount": 5000,
+        "category": "DIYA GBAGADA"
+    },
+    {
+        "_id": "5f350a2ae6d01e32841271a8",
+        "type": "debit",
+        "date": "2020-06-01T00:00:00.000Z",
+        "narration": "VALUE ADDED TAX VAT ON NIP TRANSFER FOR via GTWORLD first payment TO UBA/AMUSAT, USMAN ABIOLA ReF:GW",
+        "amount": 187,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e32841271a9",
+        "type": "debit",
+        "date": "2020-06-01T00:00:00.000Z",
+        "narration": "COMMISSION NIP TRANSFER COMMISSION FOR via GTWORLD first payment TO UBA/AMUSAT, USMAN ABIOLA ReF:GW",
+        "amount": 2500,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e32841271aa",
+        "type": "debit",
+        "date": "2020-06-01T00:00:00.000Z",
+        "narration": "NIBSS Instant Payment Outward via GTWORLD first payment TO UBA/AMUSAT, USMAN ABIOLA /./REF:GW f",
+        "amount": 5000000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e32841271ab",
+        "type": "credit",
+        "date": "2020-06-01T00:00:00.000Z",
+        "narration": "TRANSFER BETWEEN CUSTOMERS |HASSAN ABDULHAMID TOMIWA|||HASSAN ABDULHAMID TOMIWA REF: ",
+        "amount": 38606552,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e32841271ac",
+        "type": "debit",
+        "date": "2020-06-01T00:00:00.000Z",
+        "narration": "POS/WEB PURCHASE TRANSACTION -- --FLUTTERWAVE TECHNOLO LA LANG ",
+        "amount": 440000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e32841271ad",
+        "type": "debit",
+        "date": "2020-06-01T00:00:00.000Z",
+        "narration": "TRANSFER BETWEEN CUSTOMERS Via GTWorld REF: from HASSAN ABDULHAMID TOMIWA to MUDASHIRU, KAZEEM-MUDASHIRU",
+        "amount": 500000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e32841271ae",
+        "type": "debit",
+        "date": "2020-05-30T00:00:00.000Z",
+        "narration": "MATURED LOAN INSTALLMENT ",
+        "amount": 19700984,
+        "category": "DIYA GBAGADA"
+    },
+    {
+        "_id": "5f350a2ae6d01e32841271af",
+        "type": "debit",
+        "date": "2020-05-30T00:00:00.000Z",
+        "narration": "STAMP DUTY CHARGE STAMP DUTY CHARGE - //",
+        "amount": 5000,
+        "category": "DIYA GBAGADA"
+    },
+    {
+        "_id": "5f350a2ae6d01e32841271b0",
+        "type": "debit",
+        "date": "2020-05-30T00:00:00.000Z",
+        "narration": "TRANSFER BETWEEN CUSTOMERS Via GTWorld REF: from HASSAN ABDULHAMID TOMIWA to MUDASHIRU, KAZEEM-MUDASHIRU",
+        "amount": 3000000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e32841271b1",
+        "type": "credit",
+        "date": "2020-05-30T00:00:00.000Z",
+        "narration": "TRANSFER BETWEEN CUSTOMERS Via GTWorld REF: from OMNISCIDATA LTD to HASSAN ABDULHAMID TOMIWA",
+        "amount": 5000000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e32841271b2",
+        "type": "debit",
+        "date": "2020-05-29T00:00:00.000Z",
+        "narration": "STAMP DUTY CHARGE STAMP DUTY CHARGE - //",
+        "amount": 5000,
+        "category": "DIYA GBAGADA"
+    },
+    {
+        "_id": "5f350a2ae6d01e32841271b3",
+        "type": "debit",
+        "date": "2020-05-29T00:00:00.000Z",
+        "narration": "CASH WITHDRAWAL FROM OTHER ATM -- -- UBA H MA YABA NG ",
+        "amount": 500000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e32841271b4",
+        "type": "credit",
+        "date": "2020-05-29T00:00:00.000Z",
+        "narration": "TRANSFER BETWEEN CUSTOMERS |:HASSAN ABDULHAMID TOMIWA||PROVIDUS|TransferWise REF: ",
+        "amount": 20000000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e32841271b5",
+        "type": "debit",
+        "date": "2020-05-29T00:00:00.000Z",
+        "narration": "VALUE ADDED TAX VAT ON NIP TRANSFER FOR via GTWORLD TO ECO/WHITE HOUSE FOODS ACCOUNT ReF:GW",
+        "amount": 75,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e32841271b6",
+        "type": "debit",
+        "date": "2020-05-29T00:00:00.000Z",
+        "narration": "COMMISSION NIP TRANSFER COMMISSION FOR via GTWORLD TO ECO/WHITE HOUSE FOODS ACCOUNT ReF:GW",
+        "amount": 1000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e32841271b7",
+        "type": "debit",
+        "date": "2020-05-29T00:00:00.000Z",
+        "narration": "NIBSS Instant Payment Outward via GTWORLD TO ECO/WHITE HOUSE FOODS ACCOUNT /./REF:GW f",
+        "amount": 200000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e32841271b8",
+        "type": "debit",
+        "date": "2020-05-29T00:00:00.000Z",
+        "narration": "TRANSFER BETWEEN CUSTOMERS Via GTWorld REF: from HASSAN ABDULHAMID TOMIWA to SHOGBOM INVESTMENT LIMITED",
+        "amount": 2750000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e32841271b9",
+        "type": "debit",
+        "date": "2020-05-28T00:00:00.000Z",
+        "narration": "TRANSFER BETWEEN CUSTOMERS Via GTWorld REF: from HASSAN ABDULHAMID TOMIWA to SHOGBOM INVESTMENT LIMITED",
+        "amount": 100000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e32841271ba",
+        "type": "debit",
+        "date": "2020-05-28T00:00:00.000Z",
+        "narration": "POS/WEB PURCHASE TRANSACTION -- --EAT 'N' GO LIMITED ( LA LANG ",
+        "amount": 230000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e32841271bb",
+        "type": "debit",
+        "date": "2020-05-27T00:00:00.000Z",
+        "narration": "VALUE ADDED TAX VAT ON NIP TRANSFER FOR via GTWORLD TO WEMA/Africa's Talking ReF:GW",
+        "amount": 187,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e32841271bc",
+        "type": "debit",
+        "date": "2020-05-27T00:00:00.000Z",
+        "narration": "COMMISSION NIP TRANSFER COMMISSION FOR via GTWORLD TO WEMA/Africa's Talking ReF:GW",
+        "amount": 2500,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e32841271bd",
+        "type": "debit",
+        "date": "2020-05-27T00:00:00.000Z",
+        "narration": "NIBSS Instant Payment Outward via GTWORLD TO WEMA/Africa's Talking /./REF:GW f",
+        "amount": 507500,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e32841271be",
+        "type": "debit",
+        "date": "2020-05-26T00:00:00.000Z",
+        "narration": "TRANSFER BETWEEN CUSTOMERS Via GTWorld REF: from HASSAN ABDULHAMID TOMIWA to IGBOAHAZIA RITA TOCHUKWU",
+        "amount": 1850000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e32841271bf",
+        "type": "debit",
+        "date": "2020-05-25T00:00:00.000Z",
+        "narration": "VALUE ADDED TAX VAT ON NIP TRANSFER FOR via GTWORLD TO FCMB/HASSAN MONSURAT OYINDAMOLA ReF:GW",
+        "amount": 75,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e32841271c0",
+        "type": "debit",
+        "date": "2020-05-25T00:00:00.000Z",
+        "narration": "COMMISSION NIP TRANSFER COMMISSION FOR via GTWORLD TO FCMB/HASSAN MONSURAT OYINDAMOLA ReF:GW",
+        "amount": 1000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e32841271c1",
+        "type": "debit",
+        "date": "2020-05-25T00:00:00.000Z",
+        "narration": "NIBSS Instant Payment Outward via GTWORLD TO FCMB/HASSAN MONSURAT OYINDAMOLA /./REF:GW f",
+        "amount": 500000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e32841271c2",
+        "type": "debit",
+        "date": "2020-05-24T00:00:00.000Z",
+        "narration": "VALUE ADDED TAX VAT ON NIP TRANSFER FOR via GTWORLD TO FBN/ADEBISI OLABISI GANIYAT ReF:GW",
+        "amount": 187,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e32841271c3",
+        "type": "debit",
+        "date": "2020-05-24T00:00:00.000Z",
+        "narration": "COMMISSION NIP TRANSFER COMMISSION FOR via GTWORLD TO FBN/ADEBISI OLABISI GANIYAT ReF:GW",
+        "amount": 2500,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e32841271c4",
+        "type": "debit",
+        "date": "2020-05-24T00:00:00.000Z",
+        "narration": "NIBSS Instant Payment Outward via GTWORLD TO FBN/ADEBISI OLABISI GANIYAT /./REF:GW f",
+        "amount": 1000000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2ae6d01e32841271c5",
+        "type": "debit",
+        "date": "2020-05-23T00:00:00.000Z",
+        "narration": "STANDING ORDER SMS ALERT CHARGE FOR APR-MAY",
+        "amount": 14800,
+        "category": "DIYA GBAGADA"
+    },
+    {
+        "_id": "5f350a2ae6d01e32841271c6",
+        "type": "credit",
+        "date": "2020-05-22T00:00:00.000Z",
+        "narration": "TRANSFER BETWEEN CUSTOMERS |Sparkle Hassan Abdulhamid|NIP|SB|Hassan Abdulhamid REF: ",
+        "amount": 2000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e32841271c7",
+        "type": "debit",
+        "date": "2020-05-22T00:00:00.000Z",
+        "narration": "VALUE ADDED TAX VAT ON NIP TRANSFER FOR via GTWORLD TO SB/HASSAN ABDULHAMID ReF:GW",
+        "amount": 75,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e32841271c8",
+        "type": "debit",
+        "date": "2020-05-22T00:00:00.000Z",
+        "narration": "COMMISSION NIP TRANSFER COMMISSION FOR via GTWORLD TO SB/HASSAN ABDULHAMID ReF:GW",
+        "amount": 1000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e32841271c9",
+        "type": "debit",
+        "date": "2020-05-22T00:00:00.000Z",
+        "narration": "NIBSS Instant Payment Outward via GTWORLD TO SB/HASSAN ABDULHAMID /./REF:GW f",
+        "amount": 100000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e32841271ca",
+        "type": "credit",
+        "date": "2020-05-21T00:00:00.000Z",
+        "narration": "DISPENSE ERROR REVERSAL -- --MX, IPG LANG",
+        "amount": 100,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e32841271cb",
+        "type": "debit",
+        "date": "2020-05-21T00:00:00.000Z",
+        "narration": "POS/WEB PURCHASE TRANSACTION -- --MALLMART HYPERMARKET LANG NG ",
+        "amount": 849800,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e32841271cc",
+        "type": "debit",
+        "date": "2020-05-20T00:00:00.000Z",
+        "narration": "STAMP DUTY CHARGE STAMP DUTY CHARGE - //",
+        "amount": 10000,
+        "category": "DIYA GBAGADA"
+    },
+    {
+        "_id": "5f350a2be6d01e32841271cd",
+        "type": "debit",
+        "date": "2020-05-20T00:00:00.000Z",
+        "narration": "Airtime Purchase GTWORLD-CT-",
+        "amount": 999900,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e32841271ce",
+        "type": "debit",
+        "date": "2020-05-20T00:00:00.000Z",
+        "narration": "VALUE ADDED TAX VAT ON NIP TRANSFER FOR via GTWORLD TO WEMA/SPleet ReF:GW",
+        "amount": 375,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e32841271cf",
+        "type": "debit",
+        "date": "2020-05-20T00:00:00.000Z",
+        "narration": "COMMISSION NIP TRANSFER COMMISSION FOR via GTWORLD TO WEMA/SPleet ReF:GW",
+        "amount": 5000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e32841271d0",
+        "type": "debit",
+        "date": "2020-05-20T00:00:00.000Z",
+        "narration": "NIBSS Instant Payment Outward via GTWORLD TO WEMA/SPleet /./REF:GW f",
+        "amount": 15170500,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e32841271d1",
+        "type": "credit",
+        "date": "2020-05-20T00:00:00.000Z",
+        "narration": "TRANSFER BETWEEN CUSTOMERS Via GTWorld REF: from OMNISCIDATA LTD to HASSAN ABDULHAMID TOMIWA",
+        "amount": 25000000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e32841271d2",
+        "type": "debit",
+        "date": "2020-05-20T00:00:00.000Z",
+        "narration": "TRANSFER BETWEEN CUSTOMERS Via GTWorld car payment Abdul REF: from HASSAN ABDULHAMID TOMIWA to PAYSTACK OPERATIONS ACCOUNT",
+        "amount": 60000000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e32841271d3",
+        "type": "credit",
+        "date": "2020-05-20T00:00:00.000Z",
+        "narration": "TRANSFER BETWEEN CUSTOMERS Via GTWorld REF: from OMNISCIDATA LTD to HASSAN ABDULHAMID TOMIWA",
+        "amount": 60000000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e32841271d4",
+        "type": "debit",
+        "date": "2020-05-14T00:00:00.000Z",
+        "narration": "TRANSFER BETWEEN CUSTOMERS Via GTWorld REF: from HASSAN ABDULHAMID TOMIWA to MUDASHIRU, KAZEEM-MUDASHIRU",
+        "amount": 300000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e32841271d5",
+        "type": "debit",
+        "date": "2020-05-12T00:00:00.000Z",
+        "narration": "POS/WEB PURCHASE TRANSACTION -- --ECART INTERNET SERV. LA LANG ",
+        "amount": 350000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e32841271d6",
+        "type": "debit",
+        "date": "2020-05-11T00:00:00.000Z",
+        "narration": "STAMP DUTY CHARGE STAMP DUTY CHARGE - //",
+        "amount": 5000,
+        "category": "DIYA GBAGADA"
+    },
+    {
+        "_id": "5f350a2be6d01e32841271d7",
+        "type": "debit",
+        "date": "2020-05-11T00:00:00.000Z",
+        "narration": "VALUE ADDED TAX VAT ON NIP TRANSFER FOR via GTWORLD TO FBN/ADEDAYO OMOLARA GRACE ReF:GW",
+        "amount": 75,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e32841271d8",
+        "type": "debit",
+        "date": "2020-05-11T00:00:00.000Z",
+        "narration": "COMMISSION NIP TRANSFER COMMISSION FOR via GTWORLD TO FBN/ADEDAYO OMOLARA GRACE ReF:GW",
+        "amount": 1000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e32841271d9",
+        "type": "debit",
+        "date": "2020-05-11T00:00:00.000Z",
+        "narration": "NIBSS Instant Payment Outward via GTWORLD TO FBN/ADEDAYO OMOLARA GRACE /./REF:GW f",
+        "amount": 500000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e32841271da",
+        "type": "debit",
+        "date": "2020-05-11T00:00:00.000Z",
+        "narration": "VALUE ADDED TAX VAT ON NIP TRANSFER FOR via GTWORLD TO FB/TAWAKKALT ADESHOLA ADEWUSI ReF:GW",
+        "amount": 75,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e32841271db",
+        "type": "debit",
+        "date": "2020-05-11T00:00:00.000Z",
+        "narration": "COMMISSION NIP TRANSFER COMMISSION FOR via GTWORLD TO FB/TAWAKKALT ADESHOLA ADEWUSI ReF:GW",
+        "amount": 1000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e32841271dc",
+        "type": "debit",
+        "date": "2020-05-11T00:00:00.000Z",
+        "narration": "NIBSS Instant Payment Outward via GTWORLD TO FB/TAWAKKALT ADESHOLA ADEWUSI /./REF:GW f",
+        "amount": 500000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e32841271dd",
+        "type": "debit",
+        "date": "2020-05-11T00:00:00.000Z",
+        "narration": "CASH WITHDRAWAL FROM OTHER ATM -- -- UBA H MA YABA NG ",
+        "amount": 1000000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e32841271de",
+        "type": "debit",
+        "date": "2020-05-11T00:00:00.000Z",
+        "narration": "TRANSFER BETWEEN CUSTOMERS Via GTWorld REF: from HASSAN ABDULHAMID TOMIWA to SHUAIB, BAROKAH ARAMIDE",
+        "amount": 500000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e32841271df",
+        "type": "credit",
+        "date": "2020-05-11T00:00:00.000Z",
+        "narration": "TRANSFER BETWEEN CUSTOMERS |:HASSAN ABDULHAMID TOMIWA||PROVIDUS|TransferWise REF: ",
+        "amount": 3126366,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e32841271e0",
+        "type": "debit",
+        "date": "2020-05-11T00:00:00.000Z",
+        "narration": "Airtime Purchase GTWORLD-CT-",
+        "amount": 400000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e32841271e1",
+        "type": "debit",
+        "date": "2020-05-10T00:00:00.000Z",
+        "narration": "VALUE ADDED TAX VAT ON NIP TRANSFER FOR via GTWORLD TO FBN/ADEDAYO OMOLARA GRACE ReF:GW",
+        "amount": 75,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e32841271e2",
+        "type": "debit",
+        "date": "2020-05-10T00:00:00.000Z",
+        "narration": "COMMISSION NIP TRANSFER COMMISSION FOR via GTWORLD TO FBN/ADEDAYO OMOLARA GRACE ReF:GW",
+        "amount": 1000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e32841271e3",
+        "type": "debit",
+        "date": "2020-05-10T00:00:00.000Z",
+        "narration": "NIBSS Instant Payment Outward via GTWORLD TO FBN/ADEDAYO OMOLARA GRACE /./REF:GW f",
+        "amount": 500000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e32841271e4",
+        "type": "debit",
+        "date": "2020-05-10T00:00:00.000Z",
+        "narration": "Airtime Purchase GTWORLD-CT-",
+        "amount": 100000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e32841271e5",
+        "type": "debit",
+        "date": "2020-05-10T00:00:00.000Z",
+        "narration": "COMMISSION |||Hassan Sherifat|.|.||TRANSFER",
+        "amount": 10000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e32841271e6",
+        "type": "debit",
+        "date": "2020-05-10T00:00:00.000Z",
+        "narration": "TRANSFER BETWEEN CUSTOMERS |||Hassan Sherifat|.|.||TRANSFER from HASSAN ABDULHAMID TOMIWA to GTBANK MOB MONEY REMITTANCE",
+        "amount": 190000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e32841271e7",
+        "type": "debit",
+        "date": "2020-05-08T00:00:00.000Z",
+        "narration": "STAMP DUTY CHARGE STAMP DUTY CHARGE - //",
+        "amount": 5000,
+        "category": "DIYA GBAGADA"
+    },
+    {
+        "_id": "5f350a2be6d01e32841271e8",
+        "type": "debit",
+        "date": "2020-05-08T00:00:00.000Z",
+        "narration": "POS/WEB PURCHASE TRANSACTION -- --EAT 'N' GO LIMITED ( LA LANG ",
+        "amount": 400000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e32841271e9",
+        "type": "credit",
+        "date": "2020-05-08T00:00:00.000Z",
+        "narration": "TRANSFER BETWEEN CUSTOMERS |PAYOUT FOR Fri May GMT UTC|||HASSAN ABDULHAMID TOMIWA REF: ",
+        "amount": 1700000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e32841271ea",
+        "type": "debit",
+        "date": "2020-05-08T00:00:00.000Z",
+        "narration": "VALUE ADDED TAX VAT ON NIP TRANSFER FOR via GTWORLD EBBEE TO FCMB/PRINTIVO LIMITED ReF:GW.",
+        "amount": 75,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e32841271eb",
+        "type": "debit",
+        "date": "2020-05-08T00:00:00.000Z",
+        "narration": "COMMISSION NIP TRANSFER COMMISSION FOR via GTWORLD EBBEE TO FCMB/PRINTIVO LIMITED ReF:GW.",
+        "amount": 1000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e32841271ec",
+        "type": "debit",
+        "date": "2020-05-08T00:00:00.000Z",
+        "narration": "NIBSS Instant Payment Outward via GTWORLD EBBEE TO FCMB/PRINTIVO LIMITED /./REF:GW. f",
+        "amount": 317125,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e32841271ed",
+        "type": "debit",
+        "date": "2020-05-02T00:00:00.000Z",
+        "narration": "CASH WITHDRAWAL FROM OTHER ATM -- -- UBA H MA YABA NG ",
+        "amount": 2000000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e32841271ee",
+        "type": "debit",
+        "date": "2020-05-02T00:00:00.000Z",
+        "narration": "POS/WEB PURCHASE TRANSACTION -- --DIGITALOCEAN.COM NYUS . USD ",
+        "amount": 2073630,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e32841271ef",
+        "type": "debit",
+        "date": "2020-05-01T00:00:00.000Z",
+        "narration": "STAMP DUTY CHARGE STAMP DUTY CHARGE - //",
+        "amount": 10000,
+        "category": "DIYA GBAGADA"
+    },
+    {
+        "_id": "5f350a2be6d01e32841271f0",
+        "type": "debit",
+        "date": "2020-05-01T00:00:00.000Z",
+        "narration": "VALUE ADDED TAX VAT ON NIP TRANSFER FOR via GTWORLD April salary TO ACCESS/SANDRA NNENNA IKE ReF:GW",
+        "amount": 375,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e32841271f1",
+        "type": "debit",
+        "date": "2020-05-01T00:00:00.000Z",
+        "narration": "COMMISSION NIP TRANSFER COMMISSION FOR via GTWORLD April salary TO ACCESS/SANDRA NNENNA IKE ReF:GW",
+        "amount": 5000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e32841271f2",
+        "type": "debit",
+        "date": "2020-05-01T00:00:00.000Z",
+        "narration": "NIBSS Instant Payment Outward via GTWORLD April salary TO ACCESS/SANDRA NNENNA IKE /./REF:GW f",
+        "amount": 22251000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e32841271f3",
+        "type": "debit",
+        "date": "2020-05-01T00:00:00.000Z",
+        "narration": "VALUE ADDED TAX VAT ON NIP TRANSFER FOR via GTWORLD April salary TO STERLING/ADEKOYA DARE JOSEPH ReF:GW",
+        "amount": 375,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e32841271f4",
+        "type": "debit",
+        "date": "2020-05-01T00:00:00.000Z",
+        "narration": "COMMISSION NIP TRANSFER COMMISSION FOR via GTWORLD April salary TO STERLING/ADEKOYA DARE JOSEPH ReF:GW",
+        "amount": 5000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e32841271f5",
+        "type": "debit",
+        "date": "2020-05-01T00:00:00.000Z",
+        "narration": "NIBSS Instant Payment Outward via GTWORLD April salary TO STERLING/ADEKOYA DARE JOSEPH /./REF:GW f",
+        "amount": 20000000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e32841271f6",
+        "type": "credit",
+        "date": "2020-05-01T00:00:00.000Z",
+        "narration": "TRANSFER BETWEEN CUSTOMERS |:e||PROVIDUS|TransferWise REF: ",
+        "amount": 42400000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e32841271f7",
+        "type": "credit",
+        "date": "2020-05-01T00:00:00.000Z",
+        "narration": "TRANSFER BETWEEN CUSTOMERS |:HASSAN ABDULHAMID TOMIWA||PROVIDUS|TransferWise REF: ",
+        "amount": 23882016,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e32841271f8",
+        "type": "debit",
+        "date": "2020-04-30T00:00:00.000Z",
+        "narration": "MATURED LOAN INSTALLMENT ",
+        "amount": 19700984,
+        "category": "DIYA GBAGADA"
+    },
+    {
+        "_id": "5f350a2be6d01e32841271f9",
+        "type": "debit",
+        "date": "2020-04-29T00:00:00.000Z",
+        "narration": "TRANSFER BETWEEN CUSTOMERS Via GTWorld REF: from HASSAN ABDULHAMID TOMIWA to MUDASHIRU, KAZEEM-MUDASHIRU",
+        "amount": 1000000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e32841271fa",
+        "type": "debit",
+        "date": "2020-04-28T00:00:00.000Z",
+        "narration": "STANDING ORDER SMS ALERT CHARGE FOR MAR-APR",
+        "amount": 18400,
+        "category": "DIYA GBAGADA"
+    },
+    {
+        "_id": "5f350a2be6d01e32841271fb",
+        "type": "debit",
+        "date": "2020-04-28T00:00:00.000Z",
+        "narration": "VALUE ADDED TAX VAT ON NIP TRANSFER FOR via GTWORLD TO UBA/AJIBOYE WAHEED, SUNKANMI ReF:GW",
+        "amount": 75,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e32841271fc",
+        "type": "debit",
+        "date": "2020-04-28T00:00:00.000Z",
+        "narration": "COMMISSION NIP TRANSFER COMMISSION FOR via GTWORLD TO UBA/AJIBOYE WAHEED, SUNKANMI ReF:GW",
+        "amount": 1000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e32841271fd",
+        "type": "debit",
+        "date": "2020-04-28T00:00:00.000Z",
+        "narration": "NIBSS Instant Payment Outward via GTWORLD TO UBA/AJIBOYE WAHEED, SUNKANMI /./REF:GW f",
+        "amount": 500000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e32841271fe",
+        "type": "debit",
+        "date": "2020-04-28T00:00:00.000Z",
+        "narration": "POS/WEB PURCHASE TRANSACTION -- --MX, IPG LANG ",
+        "amount": 100,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e32841271ff",
+        "type": "debit",
+        "date": "2020-04-26T00:00:00.000Z",
+        "narration": "POS/WEB PURCHASE TRANSACTION -- --PG-P OT /F SOUPS LANG ",
+        "amount": 800000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e3284127200",
+        "type": "debit",
+        "date": "2020-04-26T00:00:00.000Z",
+        "narration": "TRANSFER BETWEEN CUSTOMERS Via GTWorld REF: from HASSAN ABDULHAMID TOMIWA to IGBOAHAZIA RITA TOCHUKWU",
+        "amount": 1850000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e3284127201",
+        "type": "debit",
+        "date": "2020-04-26T00:00:00.000Z",
+        "narration": "Airtime Purchase GTWORLD-CT-",
+        "amount": 999900,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e3284127202",
+        "type": "debit",
+        "date": "2020-04-26T00:00:00.000Z",
+        "narration": "VALUE ADDED TAX VAT ON NIP TRANSFER FOR via GTWORLD Alhaja Namaco TO FBN/ADEDAYO OMOLARA GRACE ReF:GW",
+        "amount": 187,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e3284127203",
+        "type": "debit",
+        "date": "2020-04-26T00:00:00.000Z",
+        "narration": "COMMISSION NIP TRANSFER COMMISSION FOR via GTWORLD Alhaja Namaco TO FBN/ADEDAYO OMOLARA GRACE ReF:GW",
+        "amount": 2500,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e3284127204",
+        "type": "debit",
+        "date": "2020-04-26T00:00:00.000Z",
+        "narration": "NIBSS Instant Payment Outward via GTWORLD Alhaja Namaco TO FBN/ADEDAYO OMOLARA GRACE /./REF:GW f",
+        "amount": 700000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e3284127205",
+        "type": "debit",
+        "date": "2020-04-25T00:00:00.000Z",
+        "narration": "VALUE ADDED TAX VAT ON NIP TRANSFER FOR via GTWORLD TO STERLING/ADEKOYA DARE JOSEPH ReF:GW",
+        "amount": 187,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e3284127206",
+        "type": "debit",
+        "date": "2020-04-25T00:00:00.000Z",
+        "narration": "COMMISSION NIP TRANSFER COMMISSION FOR via GTWORLD TO STERLING/ADEKOYA DARE JOSEPH ReF:GW",
+        "amount": 2500,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e3284127207",
+        "type": "debit",
+        "date": "2020-04-25T00:00:00.000Z",
+        "narration": "NIBSS Instant Payment Outward via GTWORLD TO STERLING/ADEKOYA DARE JOSEPH /./REF:GW f",
+        "amount": 1000000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e3284127208",
+        "type": "debit",
+        "date": "2020-04-24T00:00:00.000Z",
+        "narration": "POS/WEB PURCHASE TRANSACTION -- --ECART INTERNET SERV LA LANG ",
+        "amount": 495000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e3284127209",
+        "type": "debit",
+        "date": "2020-04-23T00:00:00.000Z",
+        "narration": "STAMP DUTY CHARGE STAMP DUTY CHARGE - //",
+        "amount": 5000,
+        "category": "DIYA GBAGADA"
+    },
+    {
+        "_id": "5f350a2be6d01e328412720a",
+        "type": "debit",
+        "date": "2020-04-23T00:00:00.000Z",
+        "narration": "VALUE ADDED TAX VAT ON NIP TRANSFER FOR via GTWORLD TO FB/TAWAKKALT ADESHOLA ADEWUSI ReF:GW",
+        "amount": 187,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e328412720b",
+        "type": "debit",
+        "date": "2020-04-23T00:00:00.000Z",
+        "narration": "COMMISSION NIP TRANSFER COMMISSION FOR via GTWORLD TO FB/TAWAKKALT ADESHOLA ADEWUSI ReF:GW",
+        "amount": 2500,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e328412720c",
+        "type": "debit",
+        "date": "2020-04-23T00:00:00.000Z",
+        "narration": "NIBSS Instant Payment Outward via GTWORLD TO FB/TAWAKKALT ADESHOLA ADEWUSI /./REF:GW f",
+        "amount": 1500000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e328412720d",
+        "type": "credit",
+        "date": "2020-04-23T00:00:00.000Z",
+        "narration": "TRANSFER BETWEEN CUSTOMERS |BAMBOO INVEST WITHDRAWAL|||HASSAN ABDULHAMID TOMIWA REF: ",
+        "amount": 6800000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e328412720e",
+        "type": "debit",
+        "date": "2020-04-23T00:00:00.000Z",
+        "narration": "ATM WITHDRAWAL COMMISSION -- -- UBA H MA YABA NG ",
+        "amount": 3500,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e328412720f",
+        "type": "debit",
+        "date": "2020-04-23T00:00:00.000Z",
+        "narration": "CASH WITHDRAWAL FROM OTHER ATM -- -- UBA H MA YABA NG ",
+        "amount": 2000000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e3284127210",
+        "type": "debit",
+        "date": "2020-04-22T00:00:00.000Z",
+        "narration": "STAMP DUTY CHARGE STAMP DUTY CHARGE - //",
+        "amount": 5000,
+        "category": "DIYA GBAGADA"
+    },
+    {
+        "_id": "5f350a2be6d01e3284127211",
+        "type": "debit",
+        "date": "2020-04-22T00:00:00.000Z",
+        "narration": "POS/WEB PURCHASE TRANSACTION -- --PG-S-P/EET LANG ",
+        "amount": 10000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e3284127212",
+        "type": "credit",
+        "date": "2020-04-22T00:00:00.000Z",
+        "narration": "TRANSFER BETWEEN CUSTOMERS |sendcash paymentBuyCoins||null|Paystack REF: ",
+        "amount": 4172539,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e3284127213",
+        "type": "debit",
+        "date": "2020-04-21T00:00:00.000Z",
+        "narration": "ATM WITHDRAWAL COMMISSION -- -- UBA H MA YABA NG ",
+        "amount": 3500,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e3284127214",
+        "type": "debit",
+        "date": "2020-04-21T00:00:00.000Z",
+        "narration": "CASH WITHDRAWAL FROM OTHER ATM -- -- UBA H MA YABA NG ",
+        "amount": 200000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e3284127215",
+        "type": "debit",
+        "date": "2020-04-20T00:00:00.000Z",
+        "narration": "POS/WEB PURCHASE TRANSACTION -- --POS - EAT N GO -DP- LA LANG ",
+        "amount": 285000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e3284127216",
+        "type": "credit",
+        "date": "2020-04-20T00:00:00.000Z",
+        "narration": "TRANSFER BETWEEN CUSTOMERS Via GTWorld REF: from OMNISCIDATA LTD to HASSAN ABDULHAMID TOMIWA",
+        "amount": 500000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e3284127217",
+        "type": "debit",
+        "date": "2020-04-20T00:00:00.000Z",
+        "narration": "VALUE ADDED TAX VAT ON NIP TRANSFER FOR via GTWORLD TO STERLING/ADEKOYA DARE JOSEPH ReF:GW",
+        "amount": 75,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e3284127218",
+        "type": "debit",
+        "date": "2020-04-20T00:00:00.000Z",
+        "narration": "COMMISSION NIP TRANSFER COMMISSION FOR via GTWORLD TO STERLING/ADEKOYA DARE JOSEPH ReF:GW",
+        "amount": 1000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e3284127219",
+        "type": "debit",
+        "date": "2020-04-20T00:00:00.000Z",
+        "narration": "NIBSS Instant Payment Outward via GTWORLD TO STERLING/ADEKOYA DARE JOSEPH /./REF:GW f",
+        "amount": 200000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e328412721a",
+        "type": "debit",
+        "date": "2020-04-19T00:00:00.000Z",
+        "narration": "OTHERS' POINT OF SALE COMMISSION -- --CO;;TOLAGOSLANGLANG ",
+        "amount": 10000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e328412721b",
+        "type": "debit",
+        "date": "2020-04-19T00:00:00.000Z",
+        "narration": "POS/WEB PURCHASE TRANSACTION -- --CO;;TOLAGOSLANGLANG ",
+        "amount": 200000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e328412721c",
+        "type": "debit",
+        "date": "2020-04-17T00:00:00.000Z",
+        "narration": "POS/WEB PURCHASE TRANSACTION -- --EAT N GO LIMITED LA LANG ",
+        "amount": 190000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e328412721d",
+        "type": "debit",
+        "date": "2020-04-16T00:00:00.000Z",
+        "narration": "Airtime Purchase GTWORLD_QL-CT-",
+        "amount": 100000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e328412721e",
+        "type": "debit",
+        "date": "2020-04-15T00:00:00.000Z",
+        "narration": "VALUE ADDED TAX VAT ON NIP TRANSFER FOR via GTWORLD TO FBN/ADEBISI OLABISI GANIYAT ReF:GW",
+        "amount": 187,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e328412721f",
+        "type": "debit",
+        "date": "2020-04-15T00:00:00.000Z",
+        "narration": "COMMISSION NIP TRANSFER COMMISSION FOR via GTWORLD TO FBN/ADEBISI OLABISI GANIYAT ReF:GW",
+        "amount": 2500,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e3284127220",
+        "type": "debit",
+        "date": "2020-04-15T00:00:00.000Z",
+        "narration": "NIBSS Instant Payment Outward via GTWORLD TO FBN/ADEBISI OLABISI GANIYAT /./REF:GW f",
+        "amount": 1000000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e3284127221",
+        "type": "debit",
+        "date": "2020-04-15T00:00:00.000Z",
+        "narration": "VALUE ADDED TAX VAT ON NIP TRANSFER FOR via GTWORLD TO FBN/ADEDAYO OLANREWAJU FELIX ReF:GW",
+        "amount": 75,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e3284127222",
+        "type": "debit",
+        "date": "2020-04-15T00:00:00.000Z",
+        "narration": "COMMISSION NIP TRANSFER COMMISSION FOR via GTWORLD TO FBN/ADEDAYO OLANREWAJU FELIX ReF:GW",
+        "amount": 1000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e3284127223",
+        "type": "debit",
+        "date": "2020-04-15T00:00:00.000Z",
+        "narration": "NIBSS Instant Payment Outward via GTWORLD TO FBN/ADEDAYO OLANREWAJU FELIX /./REF:GW f",
+        "amount": 500000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e3284127224",
+        "type": "credit",
+        "date": "2020-04-15T00:00:00.000Z",
+        "narration": "TRANSFER BETWEEN CUSTOMERS via GAPS -   from OYAPAYME LTD to HASSAN ABDULHAMID TOMIWA REF:",
+        "amount": 900000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e3284127225",
+        "type": "credit",
+        "date": "2020-04-15T00:00:00.000Z",
+        "narration": "TRANSFER BETWEEN CUSTOMERS Via GTWorld REF: from OMNISCIDATA LTD to HASSAN ABDULHAMID TOMIWA",
+        "amount": 900000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e3284127226",
+        "type": "debit",
+        "date": "2020-04-14T00:00:00.000Z",
+        "narration": "STAMP DUTY CHARGE STAMP DUTY CHARGE - //",
+        "amount": 5000,
+        "category": "DIYA GBAGADA"
+    },
+    {
+        "_id": "5f350a2be6d01e3284127227",
+        "type": "debit",
+        "date": "2020-04-14T00:00:00.000Z",
+        "narration": "TRANSFER BETWEEN CUSTOMERS Via GTWorld REF: from HASSAN ABDULHAMID TOMIWA to MUHAMMED-BELLO, IRESALEWA N.",
+        "amount": 300000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e3284127228",
+        "type": "debit",
+        "date": "2020-04-14T00:00:00.000Z",
+        "narration": "ATM WITHDRAWAL COMMISSION -- -- UBA H MA YABA NG ",
+        "amount": 3500,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e3284127229",
+        "type": "debit",
+        "date": "2020-04-14T00:00:00.000Z",
+        "narration": "CASH WITHDRAWAL FROM OTHER ATM -- -- UBA H MA YABA NG ",
+        "amount": 1000000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e328412722a",
+        "type": "debit",
+        "date": "2020-04-14T00:00:00.000Z",
+        "narration": "TRANSFER BETWEEN CUSTOMERS Via GTWorld REF: from HASSAN ABDULHAMID TOMIWA to OGUNGBEFUN OLADUNNI KHADIJAH",
+        "amount": 1500000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e328412722b",
+        "type": "credit",
+        "date": "2020-04-14T00:00:00.000Z",
+        "narration": "TRANSFER BETWEEN CUSTOMERS Via GTWorld REF: from OMNISCIDATA LTD to HASSAN ABDULHAMID TOMIWA",
+        "amount": 3000000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e328412722c",
+        "type": "debit",
+        "date": "2020-04-14T00:00:00.000Z",
+        "narration": "POS/WEB PURCHASE TRANSACTION -- --DIGITALOCEAN.COM NYUS . USD ",
+        "amount": 2859480,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e328412722d",
+        "type": "debit",
+        "date": "2020-04-13T00:00:00.000Z",
+        "narration": "VALUE ADDED TAX VAT ON NIP TRANSFER FOR via GTWORLD TO ACCESS/ABOSEDE JOLADE AGBESANWA ReF:GW",
+        "amount": 75,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e328412722e",
+        "type": "debit",
+        "date": "2020-04-13T00:00:00.000Z",
+        "narration": "COMMISSION NIP TRANSFER COMMISSION FOR via GTWORLD TO ACCESS/ABOSEDE JOLADE AGBESANWA ReF:GW",
+        "amount": 1000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e328412722f",
+        "type": "debit",
+        "date": "2020-04-13T00:00:00.000Z",
+        "narration": "NIBSS Instant Payment Outward via GTWORLD TO ACCESS/ABOSEDE JOLADE AGBESANWA /./REF:GW f",
+        "amount": 150000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e3284127230",
+        "type": "debit",
+        "date": "2020-04-12T00:00:00.000Z",
+        "narration": "CASH WITHDRAWAL FROM OTHER ATM -- -- UBA H MA YABA NG ",
+        "amount": 1000000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e3284127231",
+        "type": "debit",
+        "date": "2020-04-10T00:00:00.000Z",
+        "narration": "Airtime Purchase GTWORLD-CT-",
+        "amount": 999900,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e3284127232",
+        "type": "debit",
+        "date": "2020-04-10T00:00:00.000Z",
+        "narration": "COMMISSION |||Hassan Sherifat|.|.||TRANSFER",
+        "amount": 10000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e3284127233",
+        "type": "debit",
+        "date": "2020-04-10T00:00:00.000Z",
+        "narration": "TRANSFER BETWEEN CUSTOMERS |||Hassan Sherifat|.|.||TRANSFER from HASSAN ABDULHAMID TOMIWA to GTBANK MOB MONEY REMITTANCE",
+        "amount": 190000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e3284127234",
+        "type": "debit",
+        "date": "2020-04-10T00:00:00.000Z",
+        "narration": "VALUE ADDED TAX VAT ON NIP TRANSFER FOR via GTWORLD Alhaja Namaco TO FBN/ADEDAYO OLANREWAJU FELIX ReF:GW",
+        "amount": 187,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e3284127235",
+        "type": "debit",
+        "date": "2020-04-10T00:00:00.000Z",
+        "narration": "COMMISSION NIP TRANSFER COMMISSION FOR via GTWORLD Alhaja Namaco TO FBN/ADEDAYO OLANREWAJU FELIX ReF:GW",
+        "amount": 2500,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e3284127236",
+        "type": "debit",
+        "date": "2020-04-10T00:00:00.000Z",
+        "narration": "NIBSS Instant Payment Outward via GTWORLD Alhaja Namaco TO FBN/ADEDAYO OLANREWAJU FELIX /./REF:GW f",
+        "amount": 1500000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e3284127237",
+        "type": "debit",
+        "date": "2020-04-10T00:00:00.000Z",
+        "narration": "TRANSFER BETWEEN CUSTOMERS Via GTWorld REF: from HASSAN ABDULHAMID TOMIWA to OLAYEMI ABIDAT IYABO",
+        "amount": 1500000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e3284127238",
+        "type": "debit",
+        "date": "2020-04-08T00:00:00.000Z",
+        "narration": "POS/WEB PURCHASE TRANSACTION -- --POS - EAT N GO -DP- LA LANG ",
+        "amount": 285000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e3284127239",
+        "type": "debit",
+        "date": "2020-04-07T00:00:00.000Z",
+        "narration": "TRANSFER BETWEEN CUSTOMERS Via GTWorld For my lil sister and brother. REF: from HASSAN ABDULHAMID TOMIWA to HASSAN, HASMAT .O",
+        "amount": 3000000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e328412723a",
+        "type": "debit",
+        "date": "2020-04-07T00:00:00.000Z",
+        "narration": "POS/WEB PURCHASE TRANSACTION -- --ECART INTERNET SERV LA LANG ",
+        "amount": 9581000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e328412723b",
+        "type": "debit",
+        "date": "2020-04-06T00:00:00.000Z",
+        "narration": "CASH WITHDRAWAL FROM OTHER ATM -- -- UBA H MA YABA NG ",
+        "amount": 1000000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e328412723c",
+        "type": "debit",
+        "date": "2020-04-05T00:00:00.000Z",
+        "narration": "TRANSFER BETWEEN CUSTOMERS Via GTWorld REF: from HASSAN ABDULHAMID TOMIWA to SANUSI-OTTUN MONSURAT MOJISOL",
+        "amount": 3000000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e328412723d",
+        "type": "debit",
+        "date": "2020-04-05T00:00:00.000Z",
+        "narration": "ATM/POS ACOUNT TO ACCOUNT TRANSFER -- --Barter /LANG ",
+        "amount": 119000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e328412723e",
+        "type": "debit",
+        "date": "2020-04-05T00:00:00.000Z",
+        "narration": "PURCHASE/TRANSFER COMMISSION -- --Barter /LANG ",
+        "amount": 1075,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e328412723f",
+        "type": "debit",
+        "date": "2020-04-05T00:00:00.000Z",
+        "narration": "ATM/POS ACOUNT TO ACCOUNT TRANSFER -- --Barter /LANG ",
+        "amount": 99000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e3284127240",
+        "type": "debit",
+        "date": "2020-04-05T00:00:00.000Z",
+        "narration": "PURCHASE/TRANSFER COMMISSION -- --Barter /LANG ",
+        "amount": 1075,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e3284127241",
+        "type": "debit",
+        "date": "2020-04-02T00:00:00.000Z",
+        "narration": "CASH WITHDRAWAL FROM OTHER ATM -- -- UBA H MA YABA NG ",
+        "amount": 1000000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e3284127242",
+        "type": "debit",
+        "date": "2020-04-01T00:00:00.000Z",
+        "narration": "STAMP DUTY CHARGE STAMP DUTY CHARGE - //",
+        "amount": 5000,
+        "category": "DIYA GBAGADA"
+    },
+    {
+        "_id": "5f350a2be6d01e3284127243",
+        "type": "credit",
+        "date": "2020-04-01T00:00:00.000Z",
+        "narration": "TRANSFER BETWEEN CUSTOMERS |BANK TRANSFER|ccPxCCiTKdf|KMB|AKANDE, ADEWALE AKINKUNMI REF: ",
+        "amount": 1000000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e3284127244",
+        "type": "debit",
+        "date": "2020-04-01T00:00:00.000Z",
+        "narration": "VALUE ADDED TAX VAT ON NIP TRANSFER FOR via GTWORLD TO FB/TAWAKKALT ADESHOLA ADEWUSI ReF:GW",
+        "amount": 187,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e3284127245",
+        "type": "debit",
+        "date": "2020-04-01T00:00:00.000Z",
+        "narration": "COMMISSION NIP TRANSFER COMMISSION FOR via GTWORLD TO FB/TAWAKKALT ADESHOLA ADEWUSI ReF:GW",
+        "amount": 2500,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e3284127246",
+        "type": "debit",
+        "date": "2020-04-01T00:00:00.000Z",
+        "narration": "NIBSS Instant Payment Outward via GTWORLD TO FB/TAWAKKALT ADESHOLA ADEWUSI /./REF:GW f",
+        "amount": 1000000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e3284127247",
+        "type": "debit",
+        "date": "2020-03-31T00:00:00.000Z",
+        "narration": "MATURED LOAN INSTALLMENT ",
+        "amount": 19700984,
+        "category": "DIYA GBAGADA"
+    },
+    {
+        "_id": "5f350a2be6d01e3284127248",
+        "type": "credit",
+        "date": "2020-03-30T00:00:00.000Z",
+        "narration": "POS/WEB TRANSACTION REVERSAL -- --EAT 'N' GO LIMITED/ LA LANG ",
+        "amount": 425000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e3284127249",
+        "type": "debit",
+        "date": "2020-03-30T00:00:00.000Z",
+        "narration": "POS/WEB PURCHASE TRANSACTION -- --EAT 'N' GO LIMITED/ LA LANG ",
+        "amount": 425000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e328412724a",
+        "type": "debit",
+        "date": "2020-03-30T00:00:00.000Z",
+        "narration": "POS/WEB PURCHASE TRANSACTION -- --EAT 'N' GO LIMITED ( LA LANG ",
+        "amount": 425000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e328412724b",
+        "type": "debit",
+        "date": "2020-03-29T00:00:00.000Z",
+        "narration": "STANDING ORDER SMS ALERT CHARGE FOR FEB-MAR",
+        "amount": 44400,
+        "category": "DIYA GBAGADA"
+    },
+    {
+        "_id": "5f350a2be6d01e328412724c",
+        "type": "debit",
+        "date": "2020-03-29T00:00:00.000Z",
+        "narration": "Airtime Purchase GTWORLD_QL-CT-",
+        "amount": 100000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e328412724d",
+        "type": "debit",
+        "date": "2020-03-27T00:00:00.000Z",
+        "narration": "Airtime Purchase GTWORLD-CT-",
+        "amount": 499900,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e328412724e",
+        "type": "debit",
+        "date": "2020-03-27T00:00:00.000Z",
+        "narration": "TRANSFER BETWEEN CUSTOMERS Via GTWorld For Hassan Ntel REF: from HASSAN ABDULHAMID TOMIWA to IGBOAHAZIA RITA TOCHUKWU",
+        "amount": 1850000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e328412724f",
+        "type": "debit",
+        "date": "2020-03-26T00:00:00.000Z",
+        "narration": "TRANSFER BETWEEN CUSTOMERS Via GTWorld REF: from HASSAN ABDULHAMID TOMIWA to OGUNBEFUN, TAIWO FATAI",
+        "amount": 500000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e3284127250",
+        "type": "debit",
+        "date": "2020-03-26T00:00:00.000Z",
+        "narration": "POS/WEB PURCHASE TRANSACTION -- --MALLMART HYPERMARKET LANG NG ",
+        "amount": 1154000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e3284127251",
+        "type": "debit",
+        "date": "2020-03-26T00:00:00.000Z",
+        "narration": "NIBSS Instant Payment Outward via GTWORLD TO UBA/AKINNAGBE BABATUNDE JOHN REF:GW ",
+        "amount": 160000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e3284127252",
+        "type": "debit",
+        "date": "2020-03-26T00:00:00.000Z",
+        "narration": "POS/WEB PURCHASE TRANSACTION -- --DANMOLE ABIODUN SEKI LA LANG ",
+        "amount": 500000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e3284127253",
+        "type": "debit",
+        "date": "2020-03-25T00:00:00.000Z",
+        "narration": "POS/WEB PURCHASE TRANSACTION -- --MALLMART HYPERMARKET LA LANG ",
+        "amount": 965600,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e3284127254",
+        "type": "debit",
+        "date": "2020-03-23T00:00:00.000Z",
+        "narration": "STAMP DUTY CHARGE STAMP DUTY CHARGE - //",
+        "amount": 5000,
+        "category": "DIYA GBAGADA"
+    },
+    {
+        "_id": "5f350a2be6d01e3284127255",
+        "type": "debit",
+        "date": "2020-03-23T00:00:00.000Z",
+        "narration": "POS/WEB PURCHASE TRANSACTION -- --POS - EAT N GO -DP- LA LANG ",
+        "amount": 340000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e3284127256",
+        "type": "debit",
+        "date": "2020-03-23T00:00:00.000Z",
+        "narration": "TRANSFER BETWEEN CUSTOMERS Transfer between customers-Via GTWorld REF: from HASSAN ABDULHAMID TOMIWA to OGUNGBEFUN OLADUNNI KHADIJAH",
+        "amount": 3000000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e3284127257",
+        "type": "credit",
+        "date": "2020-03-23T00:00:00.000Z",
+        "narration": "TRANSFER BETWEEN CUSTOMERS Transfer between customers-Via GTWorld Prakhar salary REF: from OMNISCIDATA LTD to HASSAN ABDULHAMID TOMIWA",
+        "amount": 36700000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e3284127258",
+        "type": "debit",
+        "date": "2020-03-23T00:00:00.000Z",
+        "narration": "VALUE ADDED TAX VAT ON NIP TRANSFER FOR via GTWORLD TO FB/TAWAKKALT ADESHOLA ADEWUSI ReF:GW",
+        "amount": 187,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e3284127259",
+        "type": "debit",
+        "date": "2020-03-23T00:00:00.000Z",
+        "narration": "COMMISSION NIP TRANSFER COMMISSION FOR via GTWORLD TO FB/TAWAKKALT ADESHOLA ADEWUSI ReF:GW",
+        "amount": 2500,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e328412725a",
+        "type": "debit",
+        "date": "2020-03-23T00:00:00.000Z",
+        "narration": "NIBSS Instant Payment Outward via GTWORLD TO FB/TAWAKKALT ADESHOLA ADEWUSI /./REF:GW f",
+        "amount": 1000000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e328412725b",
+        "type": "debit",
+        "date": "2020-03-21T00:00:00.000Z",
+        "narration": "POS/WEB PURCHASE TRANSACTION -- --MALLMART HYPERMARKET LA LANG ",
+        "amount": 777000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e328412725c",
+        "type": "debit",
+        "date": "2020-03-20T00:00:00.000Z",
+        "narration": "CASH WITHDRAWAL FROM OTHER ATM -- --NCR_YABA_ LAGOS NG ",
+        "amount": 1000000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e328412725d",
+        "type": "debit",
+        "date": "2020-03-18T00:00:00.000Z",
+        "narration": "CASH WITHDRAWAL FROM OTHER ATM -- -- UBA H MA YABA NG ",
+        "amount": 1000000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e328412725e",
+        "type": "debit",
+        "date": "2020-03-18T00:00:00.000Z",
+        "narration": "TRANSFER BETWEEN CUSTOMERS Via GTWorld from HASSAN ABDULHAMID TOMIWA to HASSAN, OLADUNNI KHADIJAH - - GTB REF: from HASSAN ABDULHAMID TOMIWA to OGUNGBEFUN OLADUNNI KHADIJAH",
+        "amount": 5000000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e328412725f",
+        "type": "debit",
+        "date": "2020-03-17T00:00:00.000Z",
+        "narration": "POS/WEB PURCHASE TRANSACTION -- --EAT 'N' GO LIMITED ( LA LANG ",
+        "amount": 385000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e3284127260",
+        "type": "debit",
+        "date": "2020-03-17T00:00:00.000Z",
+        "narration": "POS/WEB PURCHASE TRANSACTION -- --AMINAT ALIU CATERING LA LANG ",
+        "amount": 70000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e3284127261",
+        "type": "debit",
+        "date": "2020-03-16T00:00:00.000Z",
+        "narration": "POS/WEB PURCHASE TRANSACTION -- --Rave LEKKI PHASE NG . USD ",
+        "amount": 390195,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e3284127262",
+        "type": "debit",
+        "date": "2020-03-16T00:00:00.000Z",
+        "narration": "POS/WEB PURCHASE TRANSACTION -- --MALLMART HYPERMARKET LANG NG ",
+        "amount": 123000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e3284127263",
+        "type": "debit",
+        "date": "2020-03-16T00:00:00.000Z",
+        "narration": "ATM/POS ACOUNT TO ACCOUNT TRANSFER -- --WT|FANDRIS VENTURES YABA NG ",
+        "amount": 100000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e3284127264",
+        "type": "debit",
+        "date": "2020-03-16T00:00:00.000Z",
+        "narration": "PURCHASE/TRANSFER COMMISSION -- --WT|FANDRIS VENTURES YABA NG ",
+        "amount": 10000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e3284127265",
+        "type": "debit",
+        "date": "2020-03-16T00:00:00.000Z",
+        "narration": "POS/WEB PURCHASE TRANSACTION -- --AMINAT ALIU CATERING LA LANG ",
+        "amount": 65000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e3284127266",
+        "type": "debit",
+        "date": "2020-03-16T00:00:00.000Z",
+        "narration": "POS/WEB PURCHASE TRANSACTION -- --PAPIEES PLACE ANIMAR A L NG ",
+        "amount": 100000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e3284127267",
+        "type": "debit",
+        "date": "2020-03-15T00:00:00.000Z",
+        "narration": "VALUE ADDED TAX VAT ON NIP TRANSFER FOR via GTWORLD For Monsurat Hassan TO FBN/ADEDAYO OLANREWAJU FELIX ReF:",
+        "amount": 187,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e3284127268",
+        "type": "debit",
+        "date": "2020-03-15T00:00:00.000Z",
+        "narration": "COMMISSION NIP TRANSFER COMMISSION FOR via GTWORLD For Monsurat Hassan TO FBN/ADEDAYO OLANREWAJU FELIX ReF:",
+        "amount": 2500,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e3284127269",
+        "type": "debit",
+        "date": "2020-03-15T00:00:00.000Z",
+        "narration": "NIBSS Instant Payment Outward via GTWORLD For Monsurat Hassan TO FBN/ADEDAYO OLANREWAJU FELIX /./REF: ",
+        "amount": 1000000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e328412726a",
+        "type": "debit",
+        "date": "2020-03-15T00:00:00.000Z",
+        "narration": "VALUE ADDED TAX VAT ON NIP TRANSFER FOR via GTWORLD Bce TO FB/DIYLAW TECHNOLOGIES LIMITED ReF:",
+        "amount": 187,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e328412726b",
+        "type": "debit",
+        "date": "2020-03-15T00:00:00.000Z",
+        "narration": "COMMISSION NIP TRANSFER COMMISSION FOR via GTWORLD Bce TO FB/DIYLAW TECHNOLOGIES LIMITED ReF:",
+        "amount": 2500,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e328412726c",
+        "type": "debit",
+        "date": "2020-03-15T00:00:00.000Z",
+        "narration": "NIBSS Instant Payment Outward via GTWORLD Bce TO FB/DIYLAW TECHNOLOGIES LIMITED /./REF: ",
+        "amount": 3225000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e328412726d",
+        "type": "debit",
+        "date": "2020-03-15T00:00:00.000Z",
+        "narration": "POS/WEB PURCHASE TRANSACTION -- --Barter/FLW interswitchdeLANG ",
+        "amount": 120000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e328412726e",
+        "type": "debit",
+        "date": "2020-03-15T00:00:00.000Z",
+        "narration": "TRANSFER BETWEEN CUSTOMERS Via GTWorld from HASSAN ABDULHAMID TOMIWA to BALOGUN , KAUTHAR TENIOLA REF: from HASSAN ABDULHAMID TOMIWA to BALOGUN , KAUTHAR TENIOLA",
+        "amount": 50000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e328412726f",
+        "type": "debit",
+        "date": "2020-03-15T00:00:00.000Z",
+        "narration": "POS/WEB PURCHASE TRANSACTION -- --SWEET SENSATION CONF LA LANG ",
+        "amount": 220000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e3284127270",
+        "type": "debit",
+        "date": "2020-03-14T00:00:00.000Z",
+        "narration": "POS/WEB PURCHASE TRANSACTION -- --MALLMART HYPERMARKET LA LANG ",
+        "amount": 110000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e3284127271",
+        "type": "debit",
+        "date": "2020-03-14T00:00:00.000Z",
+        "narration": "VALUE ADDED TAX VAT ON NIP TRANSFER FOR via GTWORLD For slippers and shipping TO ACCESS/JOY O ALABOSON ReF:",
+        "amount": 187,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e3284127272",
+        "type": "debit",
+        "date": "2020-03-14T00:00:00.000Z",
+        "narration": "COMMISSION NIP TRANSFER COMMISSION FOR via GTWORLD For slippers and shipping TO ACCESS/JOY O ALABOSON ReF:",
+        "amount": 2500,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e3284127273",
+        "type": "debit",
+        "date": "2020-03-14T00:00:00.000Z",
+        "narration": "NIBSS Instant Payment Outward via GTWORLD For slippers and shipping TO ACCESS/JOY O ALABOSON /./REF: ",
+        "amount": 1000000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e3284127274",
+        "type": "credit",
+        "date": "2020-03-14T00:00:00.000Z",
+        "narration": "TRANSFER BETWEEN CUSTOMERS |ONB TRANSFER FROM TAWAKKALT ** FBP|ONB|FB|TAWAKKALT ADESHOLA ADEWUSI REF: ",
+        "amount": 200000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e3284127275",
+        "type": "debit",
+        "date": "2020-03-13T00:00:00.000Z",
+        "narration": "POS/WEB PURCHASE TRANSACTION -- --EAT 'N' GO LIMITED ( LA LANG ",
+        "amount": 335000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e3284127276",
+        "type": "debit",
+        "date": "2020-03-13T00:00:00.000Z",
+        "narration": "POS/WEB PURCHASE TRANSACTION -- --PG-SPL-E/T LANG ",
+        "amount": 15170500,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e3284127277",
+        "type": "debit",
+        "date": "2020-03-12T00:00:00.000Z",
+        "narration": "TRANSFER BETWEEN CUSTOMERS Via GTWorld from HASSAN ABDULHAMID TOMIWA to MUDASHIRU, KAZEEM-MUDASHIRU - - GTB REF: from HASSAN ABDULHAMID TOMIWA to MUDASHIRU, KAZEEM-MUDASHIRU",
+        "amount": 1000000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e3284127278",
+        "type": "debit",
+        "date": "2020-03-12T00:00:00.000Z",
+        "narration": "Airtime Purchase GTWORLD-CT-",
+        "amount": 100000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e3284127279",
+        "type": "debit",
+        "date": "2020-03-11T00:00:00.000Z",
+        "narration": "TRANSFER BETWEEN CUSTOMERS Via GTWorld from HASSAN ABDULHAMID TOMIWA to MUDASHIRU, KAZEEM-MUDASHIRU - - GTB Shock REF: from HASSAN ABDULHAMID TOMIWA to MUDASHIRU, KAZEEM-MUDASHIRU",
+        "amount": 5000000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e328412727a",
+        "type": "debit",
+        "date": "2020-03-11T00:00:00.000Z",
+        "narration": "Airtime Purchase GTWORLD_QL-CT-",
+        "amount": 100000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e328412727b",
+        "type": "debit",
+        "date": "2020-03-11T00:00:00.000Z",
+        "narration": "COMMISSION GTRescue Vat for from HASSAN ABDULHAMID TOMIWA _ REF:",
+        "amount": 375,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e328412727c",
+        "type": "debit",
+        "date": "2020-03-11T00:00:00.000Z",
+        "narration": "ATM Transfers Commission GTRescue Charge for from HASSAN ABDULHAMID TOMIWA _ REF:",
+        "amount": 5000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e328412727d",
+        "type": "debit",
+        "date": "2020-03-11T00:00:00.000Z",
+        "narration": "GTRescue Cashout GTRescue cashout for from HASSAN ABDULHAMID TOMIWA_ _ REF:",
+        "amount": 1500000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e328412727e",
+        "type": "debit",
+        "date": "2020-03-11T00:00:00.000Z",
+        "narration": "TRANSFER BETWEEN CUSTOMERS Via GTWorld from HASSAN ABDULHAMID TOMIWA to ADEFUYE,BABATUNDE REF: from HASSAN ABDULHAMID TOMIWA to ADEFUYE,BABATUNDE",
+        "amount": 80000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e328412727f",
+        "type": "debit",
+        "date": "2020-03-10T00:00:00.000Z",
+        "narration": "STAMP DUTY CHARGE STAMP DUTY CHARGE - //",
+        "amount": 5000,
+        "category": "DIYA GBAGADA"
+    },
+    {
+        "_id": "5f350a2be6d01e3284127280",
+        "type": "debit",
+        "date": "2020-03-10T00:00:00.000Z",
+        "narration": "VALUE ADDED TAX VAT ON NIP TRANSFER FOR via GTWORLD TO UBA/PAPIEES PLACE ANIMART LTD ReF:",
+        "amount": 75,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e3284127281",
+        "type": "debit",
+        "date": "2020-03-10T00:00:00.000Z",
+        "narration": "COMMISSION NIP TRANSFER COMMISSION FOR via GTWORLD TO UBA/PAPIEES PLACE ANIMART LTD ReF:",
+        "amount": 1000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e3284127282",
+        "type": "debit",
+        "date": "2020-03-10T00:00:00.000Z",
+        "narration": "NIBSS Instant Payment Outward via GTWORLD TO UBA/PAPIEES PLACE ANIMART LTD /./REF: ",
+        "amount": 100000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e3284127283",
+        "type": "debit",
+        "date": "2020-03-10T00:00:00.000Z",
+        "narration": "VALUE ADDED TAX ",
+        "amount": 7500,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e3284127284",
+        "type": "debit",
+        "date": "2020-03-10T00:00:00.000Z",
+        "narration": "Card Request Commission ",
+        "amount": 100000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e3284127285",
+        "type": "credit",
+        "date": "2020-03-10T00:00:00.000Z",
+        "narration": "TRANSFER BETWEEN CUSTOMERS via Internet Banking Half of m from ONANUGA, OLUWATOSIN to HASSAN ABDULHAMID TOMIWA",
+        "amount": 50000000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e3284127286",
+        "type": "debit",
+        "date": "2020-03-10T00:00:00.000Z",
+        "narration": "COMMISSION |||Hassan Sherifat|.|.||TRANSFER",
+        "amount": 10000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e3284127287",
+        "type": "debit",
+        "date": "2020-03-10T00:00:00.000Z",
+        "narration": "TRANSFER BETWEEN CUSTOMERS |||Hassan Sherifat|.|.||TRANSFER from HASSAN ABDULHAMID TOMIWA to GTBANK MOB MONEY REMITTANCE",
+        "amount": 200000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e3284127288",
+        "type": "debit",
+        "date": "2020-03-10T00:00:00.000Z",
+        "narration": "TRANSFER BETWEEN CUSTOMERS Via GTWorld from HASSAN ABDULHAMID TOMIWA to OLAJIDE, BOLANLE LARE REF: from HASSAN ABDULHAMID TOMIWA to OLAJIDE, BOLANLE LARE",
+        "amount": 270000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e3284127289",
+        "type": "debit",
+        "date": "2020-03-10T00:00:00.000Z",
+        "narration": "POS/WEB PURCHASE TRANSACTION -- --AMINAT ALIU CATERING LA LANG ",
+        "amount": 105000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e328412728a",
+        "type": "debit",
+        "date": "2020-03-10T00:00:00.000Z",
+        "narration": "POS/WEB PURCHASE TRANSACTION -- --Rave LEKKI PHASE NG ",
+        "amount": 120000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e328412728b",
+        "type": "debit",
+        "date": "2020-03-09T00:00:00.000Z",
+        "narration": "VALUE ADDED TAX VAT ON NIP TRANSFER FOR via GTWORLD Pizza TO ACCESS/OFONIME SUNDAY JACKSON ReF:",
+        "amount": 75,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e328412728c",
+        "type": "debit",
+        "date": "2020-03-09T00:00:00.000Z",
+        "narration": "COMMISSION NIP TRANSFER COMMISSION FOR via GTWORLD Pizza TO ACCESS/OFONIME SUNDAY JACKSON ReF:",
+        "amount": 1000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e328412728d",
+        "type": "debit",
+        "date": "2020-03-09T00:00:00.000Z",
+        "narration": "NIBSS Instant Payment Outward via GTWORLD Pizza TO ACCESS/OFONIME SUNDAY JACKSON /./REF: ",
+        "amount": 325000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e328412728e",
+        "type": "debit",
+        "date": "2020-03-09T00:00:00.000Z",
+        "narration": "VALUE ADDED TAX VAT ON NIP TRANSFER FOR via GTWORLD TO WEMA/Bamboo Systems Technology Limited ReF:",
+        "amount": 375,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e328412728f",
+        "type": "debit",
+        "date": "2020-03-09T00:00:00.000Z",
+        "narration": "COMMISSION NIP TRANSFER COMMISSION FOR via GTWORLD TO WEMA/Bamboo Systems Technology Limited ReF:",
+        "amount": 5000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e3284127290",
+        "type": "debit",
+        "date": "2020-03-09T00:00:00.000Z",
+        "narration": "NIBSS Instant Payment Outward via GTWORLD TO WEMA/Bamboo Systems Technology Limited /./REF: ",
+        "amount": 7287000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e3284127291",
+        "type": "debit",
+        "date": "2020-03-08T00:00:00.000Z",
+        "narration": "POS/WEB PURCHASE TRANSACTION -- --EAT N GO LIMITED LA LANG ",
+        "amount": 190000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e3284127292",
+        "type": "debit",
+        "date": "2020-03-08T00:00:00.000Z",
+        "narration": "POS/WEB PURCHASE TRANSACTION -- --DANMOLE ABIODUN SEKI LA LANG ",
+        "amount": 200000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e3284127293",
+        "type": "debit",
+        "date": "2020-03-07T00:00:00.000Z",
+        "narration": "POS/WEB PURCHASE TRANSACTION -- --EAT 'N' GO LIMITED/ LA LANG ",
+        "amount": 340000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e3284127294",
+        "type": "debit",
+        "date": "2020-03-05T00:00:00.000Z",
+        "narration": "CASH WITHDRAWAL FROM OTHER ATM -- -- UBA H MA YABA NG ",
+        "amount": 1000000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e3284127295",
+        "type": "debit",
+        "date": "2020-03-04T00:00:00.000Z",
+        "narration": "TRANSFER BETWEEN CUSTOMERS Via GTWorld from OMNISCIDATA LTD to HASSAN, OLADUNNI KHADIJAH - - GTB For dad sarah REF: from HASSAN ABDULHAMID TOMIWA to OGUNGBEFUN OLADUNNI KHADIJAH",
+        "amount": 2000000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e3284127296",
+        "type": "debit",
+        "date": "2020-03-04T00:00:00.000Z",
+        "narration": "POS/WEB PURCHASE TRANSACTION -- --EAT N GO LIMITED LA LANG ",
+        "amount": 190000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e3284127297",
+        "type": "debit",
+        "date": "2020-03-03T00:00:00.000Z",
+        "narration": "STAMP DUTY CHARGE STAMP DUTY CHARGE - //",
+        "amount": 5000,
+        "category": "DIYA GBAGADA"
+    },
+    {
+        "_id": "5f350a2be6d01e3284127298",
+        "type": "debit",
+        "date": "2020-03-03T00:00:00.000Z",
+        "narration": "VALUE ADDED TAX VAT ON NIP TRANSFER FOR via GTWORLD TO ZBN/EZIMENA ARNOLD OKUGUNI ReF:",
+        "amount": 375,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e3284127299",
+        "type": "debit",
+        "date": "2020-03-03T00:00:00.000Z",
+        "narration": "COMMISSION NIP TRANSFER COMMISSION FOR via GTWORLD TO ZBN/EZIMENA ARNOLD OKUGUNI ReF:",
+        "amount": 5000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e328412729a",
+        "type": "debit",
+        "date": "2020-03-03T00:00:00.000Z",
+        "narration": "NIBSS Instant Payment Outward via GTWORLD TO ZBN/EZIMENA ARNOLD OKUGUNI /./REF: ",
+        "amount": 6000000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e328412729b",
+        "type": "debit",
+        "date": "2020-03-03T00:00:00.000Z",
+        "narration": "POS/WEB PURCHASE TRANSACTION -- --TEAMAPT LIMITED LA LANG ",
+        "amount": 70000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e328412729c",
+        "type": "debit",
+        "date": "2020-03-03T00:00:00.000Z",
+        "narration": "POS/WEB PURCHASE TRANSACTION -- --Rave LEKKI PHASE NG ",
+        "amount": 120000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e328412729d",
+        "type": "debit",
+        "date": "2020-03-03T00:00:00.000Z",
+        "narration": "POS/WEB PURCHASE TRANSACTION -- --NAME-CHEAP.COM AZUS . USD ",
+        "amount": 148190,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e328412729e",
+        "type": "debit",
+        "date": "2020-03-02T00:00:00.000Z",
+        "narration": "TRANSFER BETWEEN CUSTOMERS Via GTWorld from HASSAN ABDULHAMID TOMIWA to PAYSTACK OPERATIONS ACCOUNT - - GTB Car loan payment REF: from HASSAN ABDULHAMID TOMIWA to PAYSTACK OPERATION",
+        "amount": 60000000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e328412729f",
+        "type": "credit",
+        "date": "2020-03-02T00:00:00.000Z",
+        "narration": "TRANSFER BETWEEN CUSTOMERS Via GTWorld from OMNISCIDATA LTD to HASSAN ABDULHAMID TOMIWA - - GTB Abdul REF: from OMNISCIDATA LTD to HASSAN ABDULHAMID TOMIWA",
+        "amount": 50000000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e32841272a0",
+        "type": "debit",
+        "date": "2020-03-02T00:00:00.000Z",
+        "narration": "POS/WEB PURCHASE TRANSACTION -- --EAT 'N' GO LIMITED ( LA LANG ",
+        "amount": 380000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e32841272a1",
+        "type": "debit",
+        "date": "2020-03-02T00:00:00.000Z",
+        "narration": "POS/WEB PURCHASE TRANSACTION -- --DIGITALOCEAN.COM NYUS . USD ",
+        "amount": 2222120,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e32841272a2",
+        "type": "debit",
+        "date": "2020-02-29T00:00:00.000Z",
+        "narration": "STAMP DUTY CHARGE STAMP DUTY CHARGE - //",
+        "amount": 5000,
+        "category": "DIYA GBAGADA"
+    },
+    {
+        "_id": "5f350a2be6d01e32841272a3",
+        "type": "debit",
+        "date": "2020-02-29T00:00:00.000Z",
+        "narration": "POS/WEB PURCHASE TRANSACTION -- --FLUTTERWAVE TECHNOLO LA LANG ",
+        "amount": 240000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e32841272a4",
+        "type": "debit",
+        "date": "2020-02-29T00:00:00.000Z",
+        "narration": "POS/WEB PURCHASE TRANSACTION -- --HEALTH PLUS LIMITED LA LANG ",
+        "amount": 185000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e32841272a5",
+        "type": "debit",
+        "date": "2020-02-29T00:00:00.000Z",
+        "narration": "ATM WITHDRAWAL COMMISSION -- -- #/ YABA NG ",
+        "amount": 3500,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e32841272a6",
+        "type": "debit",
+        "date": "2020-02-29T00:00:00.000Z",
+        "narration": "CASH WITHDRAWAL FROM OTHER ATM -- -- #/ YABA NG ",
+        "amount": 1000000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e32841272a7",
+        "type": "credit",
+        "date": "2020-02-29T00:00:00.000Z",
+        "narration": "TRANSFER BETWEEN CUSTOMERS Via GTWorld from OMNISCIDATA LTD to HASSAN ABDULHAMID TOMIWA - - GTB Salary abdul REF: from OMNISCIDATA LTD to HASSAN ABDULHAMID TOMIWA",
+        "amount": 50000000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e32841272a8",
+        "type": "debit",
+        "date": "2020-02-29T00:00:00.000Z",
+        "narration": "POS/WEB PURCHASE TRANSACTION -- --MALLMART HYPERMARKET LANG NG ",
+        "amount": 416000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e32841272a9",
+        "type": "debit",
+        "date": "2020-02-28T00:00:00.000Z",
+        "narration": "MATURED LOAN INSTALLMENT ",
+        "amount": 19700984,
+        "category": "DIYA GBAGADA"
+    },
+    {
+        "_id": "5f350a2be6d01e32841272aa",
+        "type": "debit",
+        "date": "2020-02-28T00:00:00.000Z",
+        "narration": "STAMP DUTY CHARGE STAMP DUTY CHARGE - //",
+        "amount": 5000,
+        "category": "DIYA GBAGADA"
+    },
+    {
+        "_id": "5f350a2be6d01e32841272ab",
+        "type": "credit",
+        "date": "2020-02-28T00:00:00.000Z",
+        "narration": "TRANSFER BETWEEN CUSTOMERS |ONB TRANSFER FROM TAWAKKALT ** FBP|ONB|FB|TAWAKKALT ADESHOLA ADEWUSI REF: ",
+        "amount": 5000000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e32841272ac",
+        "type": "debit",
+        "date": "2020-02-28T00:00:00.000Z",
+        "narration": "CASH WITHDRAWAL FROM OTHER ATM -- -- UBA H MA YABA NG ",
+        "amount": 500000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e32841272ad",
+        "type": "debit",
+        "date": "2020-02-28T00:00:00.000Z",
+        "narration": "POS/WEB PURCHASE TRANSACTION -- --HEALTH PLUS LIMITED LA LANG ",
+        "amount": 395000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e32841272ae",
+        "type": "debit",
+        "date": "2020-02-28T00:00:00.000Z",
+        "narration": "VALUE ADDED TAX VAT ON NIP TRANSFER FOR via GTWORLD TO FB/TAWAKKALT ADESHOLA ADEWUSI ReF:",
+        "amount": 187,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e32841272af",
+        "type": "debit",
+        "date": "2020-02-28T00:00:00.000Z",
+        "narration": "COMMISSION NIP TRANSFER COMMISSION FOR via GTWORLD TO FB/TAWAKKALT ADESHOLA ADEWUSI ReF:",
+        "amount": 2500,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e32841272b0",
+        "type": "debit",
+        "date": "2020-02-28T00:00:00.000Z",
+        "narration": "NIBSS Instant Payment Outward via GTWORLD TO FB/TAWAKKALT ADESHOLA ADEWUSI /./REF: ",
+        "amount": 5000000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e32841272b1",
+        "type": "debit",
+        "date": "2020-02-28T00:00:00.000Z",
+        "narration": "POS/WEB PURCHASE TRANSACTION -- --AMINAT ALIU CATERING LA LANG ",
+        "amount": 160000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e32841272b2",
+        "type": "debit",
+        "date": "2020-02-28T00:00:00.000Z",
+        "narration": "VALUE ADDED TAX VAT ON NIP TRANSFER FOR via GTWORLD Birthday gift TO FB/TAWAKKALT ADESHOLA ADEWUSI ReF:",
+        "amount": 187,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e32841272b3",
+        "type": "debit",
+        "date": "2020-02-28T00:00:00.000Z",
+        "narration": "COMMISSION NIP TRANSFER COMMISSION FOR via GTWORLD Birthday gift TO FB/TAWAKKALT ADESHOLA ADEWUSI ReF:",
+        "amount": 2500,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e32841272b4",
+        "type": "debit",
+        "date": "2020-02-28T00:00:00.000Z",
+        "narration": "NIBSS Instant Payment Outward via GTWORLD Birthday gift TO FB/TAWAKKALT ADESHOLA ADEWUSI /./REF: ",
+        "amount": 5000000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e32841272b5",
+        "type": "debit",
+        "date": "2020-02-27T00:00:00.000Z",
+        "narration": "STAMP DUTY CHARGE STAMP DUTY CHARGE - //",
+        "amount": 5000,
+        "category": "DIYA GBAGADA"
+    },
+    {
+        "_id": "5f350a2be6d01e32841272b6",
+        "type": "debit",
+        "date": "2020-02-27T00:00:00.000Z",
+        "narration": "POS/WEB PURCHASE TRANSACTION -- --EAT N GO LIMITED -CS LA LANG ",
+        "amount": 270000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e32841272b7",
+        "type": "debit",
+        "date": "2020-02-27T00:00:00.000Z",
+        "narration": "POS/WEB PURCHASE TRANSACTION -- --HEALTH PLUS LIMITED LA LANG ",
+        "amount": 671000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e32841272b8",
+        "type": "debit",
+        "date": "2020-02-27T00:00:00.000Z",
+        "narration": "VALUE ADDED TAX VAT ON NIP TRANSFER FOR via GTWORLD TO ACCESS/PHILIP ITANYI UFARUNA ReF:",
+        "amount": 75,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e32841272b9",
+        "type": "debit",
+        "date": "2020-02-27T00:00:00.000Z",
+        "narration": "COMMISSION NIP TRANSFER COMMISSION FOR via GTWORLD TO ACCESS/PHILIP ITANYI UFARUNA ReF:",
+        "amount": 1000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e32841272ba",
+        "type": "debit",
+        "date": "2020-02-27T00:00:00.000Z",
+        "narration": "NIBSS Instant Payment Outward via GTWORLD TO ACCESS/PHILIP ITANYI UFARUNA /./REF: ",
+        "amount": 385000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e32841272bb",
+        "type": "debit",
+        "date": "2020-02-27T00:00:00.000Z",
+        "narration": "POS/WEB PURCHASE TRANSACTION -- --EAT 'N' GO LIMITED/ LA LANG ",
+        "amount": 190000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e32841272bc",
+        "type": "credit",
+        "date": "2020-02-27T00:00:00.000Z",
+        "narration": "POS/WEB TRANSACTION REVERSAL -- --EAT 'N' GO LIMITED/ LA LANG ",
+        "amount": 190000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e32841272bd",
+        "type": "debit",
+        "date": "2020-02-27T00:00:00.000Z",
+        "narration": "POS/WEB PURCHASE TRANSACTION -- --EAT 'N' GO LIMITED/ LA LANG ",
+        "amount": 190000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e32841272be",
+        "type": "credit",
+        "date": "2020-02-27T00:00:00.000Z",
+        "narration": "POS/WEB TRANSACTION REVERSAL -- --EAT 'N' GO LIMITED/ LA LANG ",
+        "amount": 190000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e32841272bf",
+        "type": "debit",
+        "date": "2020-02-27T00:00:00.000Z",
+        "narration": "POS/WEB PURCHASE TRANSACTION -- --EAT 'N' GO LIMITED/ LA LANG ",
+        "amount": 190000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e32841272c0",
+        "type": "debit",
+        "date": "2020-02-27T00:00:00.000Z",
+        "narration": "FASTTRACK CASH WITHDRAWAL PINPAD--/ ",
+        "amount": 40000000,
+        "category": "ALLEN AVENUE"
+    },
+    {
+        "_id": "5f350a2be6d01e32841272c1",
+        "type": "credit",
+        "date": "2020-02-27T00:00:00.000Z",
+        "narration": "TRANSFER BETWEEN CUSTOMERS Via GTWorld from OMNISCIDATA LTD to HASSAN ABDULHAMID TOMIWA - - GTB Exchange for ebot REF: from OMNISCIDATA LTD to HASSAN ABDULHAMID TOMIWA",
+        "amount": 20000000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e32841272c2",
+        "type": "debit",
+        "date": "2020-02-27T00:00:00.000Z",
+        "narration": "VALUE ADDED TAX VAT ON NIP TRANSFER FOR via GTWORLD TO STANBIC/GABRIEL TSEGER IORBEE ReF:",
+        "amount": 375,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e32841272c3",
+        "type": "debit",
+        "date": "2020-02-27T00:00:00.000Z",
+        "narration": "COMMISSION NIP TRANSFER COMMISSION FOR via GTWORLD TO STANBIC/GABRIEL TSEGER IORBEE ReF:",
+        "amount": 5000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e32841272c4",
+        "type": "debit",
+        "date": "2020-02-27T00:00:00.000Z",
+        "narration": "NIBSS Instant Payment Outward via GTWORLD TO STANBIC/GABRIEL TSEGER IORBEE /./REF: ",
+        "amount": 61920000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e32841272c5",
+        "type": "credit",
+        "date": "2020-02-27T00:00:00.000Z",
+        "narration": "TRANSFER BETWEEN CUSTOMERS Via GTWorld from OMNISCIDATA LTD to HASSAN ABDULHAMID TOMIWA - - GTB Ebot salary exchange to usd and naira REF: from OMNISCIDATA LTD to HASSAN ABDULHAMID ",
+        "amount": 100000000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e32841272c6",
+        "type": "debit",
+        "date": "2020-02-26T00:00:00.000Z",
+        "narration": "POS/WEB PURCHASE TRANSACTION -- --EAT 'N' GO LIMITED/ LA LANG ",
+        "amount": 190000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e32841272c7",
+        "type": "credit",
+        "date": "2020-02-26T00:00:00.000Z",
+        "narration": "TRANSFER BETWEEN CUSTOMERS |ONB TRANSFER FROM TAWAKKALT ** FBP|ONB|FB|TAWAKKALT ADESHOLA ADEWUSI REF: ",
+        "amount": 500000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e32841272c8",
+        "type": "debit",
+        "date": "2020-02-26T00:00:00.000Z",
+        "narration": "VALUE ADDED TAX VAT ON NIP TRANSFER FOR via GTWORLD TO FB/TAWAKKALT ADESHOLA ADEWUSI ReF:",
+        "amount": 187,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e32841272c9",
+        "type": "debit",
+        "date": "2020-02-26T00:00:00.000Z",
+        "narration": "COMMISSION NIP TRANSFER COMMISSION FOR via GTWORLD TO FB/TAWAKKALT ADESHOLA ADEWUSI ReF:",
+        "amount": 2500,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e32841272ca",
+        "type": "debit",
+        "date": "2020-02-26T00:00:00.000Z",
+        "narration": "NIBSS Instant Payment Outward via GTWORLD TO FB/TAWAKKALT ADESHOLA ADEWUSI /./REF: ",
+        "amount": 1000000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e32841272cb",
+        "type": "debit",
+        "date": "2020-02-26T00:00:00.000Z",
+        "narration": "TRANSFER BETWEEN CUSTOMERS Via GTWorld from HASSAN ABDULHAMID TOMIWA to IGBOAHAZIA RITA TOCHUKWU - - GTB REF: from HASSAN ABDULHAMID TOMIWA to IGBOAHAZIA RITA TOCHUKWU",
+        "amount": 1850000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e32841272cc",
+        "type": "debit",
+        "date": "2020-02-26T00:00:00.000Z",
+        "narration": "POS/WEB PURCHASE TRANSACTION -- --Rave LEKKI PHASE NG ",
+        "amount": 50500,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e32841272cd",
+        "type": "debit",
+        "date": "2020-02-26T00:00:00.000Z",
+        "narration": "POS/WEB PURCHASE TRANSACTION -- --Rave LEKKI PHASE NG ",
+        "amount": 36940524,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e32841272ce",
+        "type": "debit",
+        "date": "2020-02-25T00:00:00.000Z",
+        "narration": "STANDING ORDER SMS ALERT CHARGE FOR JAN-FEB",
+        "amount": 26400,
+        "category": "DIYA GBAGADA"
+    },
+    {
+        "_id": "5f350a2be6d01e32841272cf",
+        "type": "debit",
+        "date": "2020-02-25T00:00:00.000Z",
+        "narration": "POS/WEB PURCHASE TRANSACTION -- --TEAMAPT LIMITED LA LANG ",
+        "amount": 70000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e32841272d0",
+        "type": "debit",
+        "date": "2020-02-25T00:00:00.000Z",
+        "narration": "POS/WEB PURCHASE TRANSACTION -- --AMINAT ALIU CATERING LA LANG ",
+        "amount": 80000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e32841272d1",
+        "type": "debit",
+        "date": "2020-02-25T00:00:00.000Z",
+        "narration": "POS/WEB PURCHASE TRANSACTION -- --Rave LEKKI PHASE NG ",
+        "amount": 121200,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e32841272d2",
+        "type": "debit",
+        "date": "2020-02-25T00:00:00.000Z",
+        "narration": "POS/WEB PURCHASE TRANSACTION -- --DEVYANI INT'L (REWAR LA LANG ",
+        "amount": 125000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e32841272d3",
+        "type": "debit",
+        "date": "2020-02-24T00:00:00.000Z",
+        "narration": "POS/WEB PURCHASE TRANSACTION -- --Rave LEKKI PHASE NG ",
+        "amount": 26107275,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e32841272d4",
+        "type": "debit",
+        "date": "2020-02-24T00:00:00.000Z",
+        "narration": "POS/WEB PURCHASE TRANSACTION -- --Rave LEKKI PHASE NG ",
+        "amount": 101000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e32841272d5",
+        "type": "debit",
+        "date": "2020-02-24T00:00:00.000Z",
+        "narration": "POS/WEB PURCHASE TRANSACTION -- --EAT 'N' GO LIMITED ( LA LANG ",
+        "amount": 360000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e32841272d6",
+        "type": "credit",
+        "date": "2020-02-24T00:00:00.000Z",
+        "narration": "TRANSFER BETWEEN CUSTOMERS Via GTWorld from OMNISCIDATA LTD to HASSAN ABDULHAMID TOMIWA - - GTB Card funding for Airbnb for ebot REF: from OMNISCIDATA LTD to HASSAN ABDULHAMID TOMIW",
+        "amount": 40000000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e32841272d7",
+        "type": "debit",
+        "date": "2020-02-24T00:00:00.000Z",
+        "narration": "TRANSFER BETWEEN CUSTOMERS Via GTWorld from HASSAN ABDULHAMID TOMIWA to ODUKOYA, OLUWATOBI OLUWADAMILO - - GTB REF: from HASSAN ABDULHAMID TOMIWA to ODUKOYA, OLUWATOBI OLUWADAMILO",
+        "amount": 4100000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e32841272d8",
+        "type": "debit",
+        "date": "2020-02-24T00:00:00.000Z",
+        "narration": "POS/WEB PURCHASE TRANSACTION -- --NAME-CHEAP.COM AZUS . USD ",
+        "amount": 330690,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e32841272d9",
+        "type": "debit",
+        "date": "2020-02-24T00:00:00.000Z",
+        "narration": "POS/WEB PURCHASE TRANSACTION -- --README.COM SAN FRANCISCOCAUS USD ",
+        "amount": 3613500,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e32841272da",
+        "type": "debit",
+        "date": "2020-02-24T00:00:00.000Z",
+        "narration": "POS/WEB PURCHASE TRANSACTION -- --EAT 'N' GO LIMITED ( LA LANG ",
+        "amount": 190000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e32841272db",
+        "type": "debit",
+        "date": "2020-02-24T00:00:00.000Z",
+        "narration": "POS/WEB PURCHASE TRANSACTION -- --FIT-PLUS HEALTH STUD LA LANG ",
+        "amount": 1500000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e32841272dc",
+        "type": "credit",
+        "date": "2020-02-23T00:00:00.000Z",
+        "narration": "TRANSFER BETWEEN CUSTOMERS Via GTWorld from OMNISCIDATA LTD to HASSAN ABDULHAMID TOMIWA - - GTB For services and card funding REF: from OMNISCIDATA LTD to HASSAN ABDULHAMID TOMIWA",
+        "amount": 30000000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e32841272dd",
+        "type": "debit",
+        "date": "2020-02-23T00:00:00.000Z",
+        "narration": "CASH WITHDRAWAL FROM OTHER ATM -- -- UBA H MA YABA NG ",
+        "amount": 500000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e32841272de",
+        "type": "debit",
+        "date": "2020-02-22T00:00:00.000Z",
+        "narration": "VALUE ADDED TAX VAT ON NIP TRANSFER FOR via GTWORLD For Alhaja namaco TO FBN/ADEDAYO OLANREWAJU FELIX ReF:",
+        "amount": 75,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e32841272df",
+        "type": "debit",
+        "date": "2020-02-22T00:00:00.000Z",
+        "narration": "COMMISSION NIP TRANSFER COMMISSION FOR via GTWORLD For Alhaja namaco TO FBN/ADEDAYO OLANREWAJU FELIX ReF:",
+        "amount": 1000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e32841272e0",
+        "type": "debit",
+        "date": "2020-02-22T00:00:00.000Z",
+        "narration": "NIBSS Instant Payment Outward via GTWORLD For Alhaja namaco TO FBN/ADEDAYO OLANREWAJU FELIX /./REF: ",
+        "amount": 500000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e32841272e1",
+        "type": "debit",
+        "date": "2020-02-22T00:00:00.000Z",
+        "narration": "VALUE ADDED TAX VAT ON NIP TRANSFER FOR via GTWORLD For Aminat namaco TO FBN/ADEDAYO OLANREWAJU FELIX ReF:",
+        "amount": 75,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e32841272e2",
+        "type": "debit",
+        "date": "2020-02-22T00:00:00.000Z",
+        "narration": "COMMISSION NIP TRANSFER COMMISSION FOR via GTWORLD For Aminat namaco TO FBN/ADEDAYO OLANREWAJU FELIX ReF:",
+        "amount": 1000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e32841272e3",
+        "type": "debit",
+        "date": "2020-02-22T00:00:00.000Z",
+        "narration": "NIBSS Instant Payment Outward via GTWORLD For Aminat namaco TO FBN/ADEDAYO OLANREWAJU FELIX /./REF: ",
+        "amount": 500000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e32841272e4",
+        "type": "debit",
+        "date": "2020-02-21T00:00:00.000Z",
+        "narration": "VALUE ADDED TAX VAT ON NIP TRANSFER FOR via GTWORLD TO FCMB/ADEBISI TEMITAYO ADEDEJI ReF:",
+        "amount": 187,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e32841272e5",
+        "type": "debit",
+        "date": "2020-02-21T00:00:00.000Z",
+        "narration": "COMMISSION NIP TRANSFER COMMISSION FOR via GTWORLD TO FCMB/ADEBISI TEMITAYO ADEDEJI ReF:",
+        "amount": 2500,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e32841272e6",
+        "type": "debit",
+        "date": "2020-02-21T00:00:00.000Z",
+        "narration": "NIBSS Instant Payment Outward via GTWORLD TO FCMB/ADEBISI TEMITAYO ADEDEJI /./REF: ",
+        "amount": 3000000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e32841272e7",
+        "type": "debit",
+        "date": "2020-02-21T00:00:00.000Z",
+        "narration": "POS/WEB PURCHASE TRANSACTION -- --PG-S L/EET LANG ",
+        "amount": 15170500,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e32841272e8",
+        "type": "debit",
+        "date": "2020-02-20T00:00:00.000Z",
+        "narration": "POS/WEB PURCHASE TRANSACTION -- --TransferwiseCom_USD New York NYUS USD ",
+        "amount": 36500000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e32841272e9",
+        "type": "debit",
+        "date": "2020-02-20T00:00:00.000Z",
+        "narration": "CASH WITHDRAWAL FROM OTHER ATM -- -- UBA H MA YABA NG ",
+        "amount": 1000000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e32841272ea",
+        "type": "credit",
+        "date": "2020-02-20T00:00:00.000Z",
+        "narration": "TRANSFER BETWEEN CUSTOMERS Via GTWorld from OMNISCIDATA LTD to HASSAN ABDULHAMID TOMIWA - - GTB Prakhar February salary REF: from OMNISCIDATA LTD to HASSAN ABDULHAMID TOMIWA",
+        "amount": 36400000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e32841272eb",
+        "type": "debit",
+        "date": "2020-02-20T00:00:00.000Z",
+        "narration": "POS/WEB PURCHASE TRANSACTION -- --MALLMART HYPERMARKET-Y LANG NG ",
+        "amount": 488000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e32841272ec",
+        "type": "debit",
+        "date": "2020-02-19T00:00:00.000Z",
+        "narration": "POS/WEB PURCHASE TRANSACTION -- --FLUTTERWAVE NIGERIA LEKKI PHASE NG ",
+        "amount": 101000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e32841272ed",
+        "type": "debit",
+        "date": "2020-02-19T00:00:00.000Z",
+        "narration": "VALUE ADDED TAX VAT ON NIP TRANSFER FOR via GTWORLD For Alhaja namaco TO FBN/ADEDAYO OLANREWAJU FELIX ReF:",
+        "amount": 75,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e32841272ee",
+        "type": "debit",
+        "date": "2020-02-19T00:00:00.000Z",
+        "narration": "COMMISSION NIP TRANSFER COMMISSION FOR via GTWORLD For Alhaja namaco TO FBN/ADEDAYO OLANREWAJU FELIX ReF:",
+        "amount": 1000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e32841272ef",
+        "type": "debit",
+        "date": "2020-02-19T00:00:00.000Z",
+        "narration": "NIBSS Instant Payment Outward via GTWORLD For Alhaja namaco TO FBN/ADEDAYO OLANREWAJU FELIX /./REF: ",
+        "amount": 500000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e32841272f0",
+        "type": "debit",
+        "date": "2020-02-19T00:00:00.000Z",
+        "narration": "POS/WEB PURCHASE TRANSACTION -- --FLUTTERWAVE NIGERIA LEKKI PHASE NG ",
+        "amount": 98980,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e32841272f1",
+        "type": "debit",
+        "date": "2020-02-18T00:00:00.000Z",
+        "narration": "POS/WEB PURCHASE TRANSACTION -- --FLUTTERWAVE NIGERIA LEKKI PHASE NG ",
+        "amount": 101000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e32841272f2",
+        "type": "debit",
+        "date": "2020-02-17T00:00:00.000Z",
+        "narration": "CASH WITHDRAWAL FROM OUR ATM -- --GTBank Int'l Airprt LagIkeja LANG ",
+        "amount": 1000000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e32841272f3",
+        "type": "debit",
+        "date": "2020-02-17T00:00:00.000Z",
+        "narration": "POS/WEB PURCHASE TRANSACTION -- --NAME-CHEAP.COM AZUS . USD ",
+        "amount": 480339.99999999994,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e32841272f4",
+        "type": "debit",
+        "date": "2020-02-17T00:00:00.000Z",
+        "narration": "POS/WEB PURCHASE TRANSACTION -- --Uber BV Vorden NL . INR ",
+        "amount": 58950,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e32841272f5",
+        "type": "debit",
+        "date": "2020-02-16T00:00:00.000Z",
+        "narration": "ATM WITHDRAWAL COMMISSION -- --HSBC/AUH INT AIRPORT ABU DHABI AE AED ",
+        "amount": 120000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e32841272f6",
+        "type": "debit",
+        "date": "2020-02-16T00:00:00.000Z",
+        "narration": "CASH WITHDRAWAL FROM OTHER ATM -- --HSBC/AUH INT AIRPORT ABU DHABI AE AED ",
+        "amount": 5070430,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e32841272f7",
+        "type": "debit",
+        "date": "2020-02-16T00:00:00.000Z",
+        "narration": "ATM WITHDRAWAL COMMISSION -- --HSBC/AUH INT AIRPORT ABU DHABI AE AED ",
+        "amount": 120000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e32841272f8",
+        "type": "debit",
+        "date": "2020-02-16T00:00:00.000Z",
+        "narration": "CASH WITHDRAWAL FROM OTHER ATM -- --HSBC/AUH INT AIRPORT ABU DHABI AE AED ",
+        "amount": 1014086,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e32841272f9",
+        "type": "debit",
+        "date": "2020-02-15T00:00:00.000Z",
+        "narration": "VALUE ADDED TAX VAT ON NIP TRANSFER FOR via GTWORLD TO STERLING/JIMOH JAMIU HASSAN ReF:",
+        "amount": 75,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e32841272fa",
+        "type": "debit",
+        "date": "2020-02-15T00:00:00.000Z",
+        "narration": "COMMISSION NIP TRANSFER COMMISSION FOR via GTWORLD TO STERLING/JIMOH JAMIU HASSAN ReF:",
+        "amount": 1000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e32841272fb",
+        "type": "debit",
+        "date": "2020-02-15T00:00:00.000Z",
+        "narration": "NIBSS Instant Payment Outward via GTWORLD TO STERLING/JIMOH JAMIU HASSAN /./REF: ",
+        "amount": 500000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e32841272fc",
+        "type": "debit",
+        "date": "2020-02-15T00:00:00.000Z",
+        "narration": "VALUE ADDED TAX VAT ON NIP TRANSFER FOR via GTWORLD TO FB/TAWAKKALT ADESHOLA ADEWUSI ReF:",
+        "amount": 75,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e32841272fd",
+        "type": "debit",
+        "date": "2020-02-15T00:00:00.000Z",
+        "narration": "COMMISSION NIP TRANSFER COMMISSION FOR via GTWORLD TO FB/TAWAKKALT ADESHOLA ADEWUSI ReF:",
+        "amount": 1000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e32841272fe",
+        "type": "debit",
+        "date": "2020-02-15T00:00:00.000Z",
+        "narration": "NIBSS Instant Payment Outward via GTWORLD TO FB/TAWAKKALT ADESHOLA ADEWUSI /./REF: ",
+        "amount": 500000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e32841272ff",
+        "type": "debit",
+        "date": "2020-02-13T00:00:00.000Z",
+        "narration": "TRANSFER BETWEEN CUSTOMERS Via GTWorld from HASSAN ABDULHAMID TOMIWA to HASSAN, OLADUNNI KHADIJAH - - GTB REF: from HASSAN ABDULHAMID TOMIWA to OGUNGBEFUN OLADUNNI KHADIJAH",
+        "amount": 500000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e3284127300",
+        "type": "debit",
+        "date": "2020-02-13T00:00:00.000Z",
+        "narration": "VALUE ADDED TAX VAT ON NIP TRANSFER FOR via GTWORLD TO PROVIDUS/pwt ReF:",
+        "amount": 75,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e3284127301",
+        "type": "debit",
+        "date": "2020-02-13T00:00:00.000Z",
+        "narration": "COMMISSION NIP TRANSFER COMMISSION FOR via GTWORLD TO PROVIDUS/pwt ReF:",
+        "amount": 1000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e3284127302",
+        "type": "debit",
+        "date": "2020-02-13T00:00:00.000Z",
+        "narration": "NIBSS Instant Payment Outward via GTWORLD TO PROVIDUS/pwt /./REF: ",
+        "amount": 50000,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e3284127303",
+        "type": "debit",
+        "date": "2020-02-13T00:00:00.000Z",
+        "narration": "VALUE ADDED TAX VAT ON NIP TRANSFER FOR via GTWORLD TO PROVIDUS/pwt ReF:.",
+        "amount": 187,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e3284127304",
+        "type": "debit",
+        "date": "2020-02-13T00:00:00.000Z",
+        "narration": "COMMISSION NIP TRANSFER COMMISSION FOR via GTWORLD TO PROVIDUS/pwt ReF:.",
+        "amount": 2500,
+        "category": "E- CHANNELS"
+    },
+    {
+        "_id": "5f350a2be6d01e3284127305",
+        "type": "debit",
+        "date": "2020-02-13T00:00:00.000Z",
+        "narration": "NIBSS Instant Payment Outward via GTWORLD TO PROVIDUS/pwt /./REF:. ",
+        "amount": 1072530,
+        "category": "E- CHANNELS"
+    }
+]
