@@ -14,7 +14,6 @@ $check-height: .8rem;
     overflow: hidden;
     transform: scale(0.8);
     transform-origin: 50% 50%;
-    // transition: 10s ease-in all;
 
     @include sm{
         height: 100vh;
@@ -45,7 +44,6 @@ $check-height: .8rem;
             opacity: 1;
 
             .m-widget{
-                // transform: scale(1);
                 animation: .3s open-widget .1s linear forwards;
             }
         }
@@ -261,7 +259,6 @@ $check-height: .8rem;
 
             &__icon{
                 font-size: 1.5rem;
-                // font-weight: 700;
                 color: $gtb;
                 height: 3rem;
                 width: 3rem;
@@ -293,7 +290,6 @@ $check-height: .8rem;
                     font-size: 1.4rem;
                     margin-top: auto;
                     font-weight: 700;
-                    // justify-self: flex-end;
                 }
             }
 

@@ -1,7 +1,10 @@
+import { nearestThousand } from './utilities'
+
+const interestRate = 0.1;
+
 const calculateLoan = (transactionHistory, requestedAmount) => {
     return new Promise((resolve) => {
         let offerableLoan = {};
-        const interestRate = 0.1;
         const loanDuration = 3;
 
         //get credit difference for each month
@@ -29,8 +32,6 @@ const calculateLoan = (transactionHistory, requestedAmount) => {
                 monthlyRepayable: nearestThousand(monthlyRepayable)
             }
         }
-
-        // console.log(getTime("2020-07-23T20:00:00.000Z"));
 
         resolve(offerableLoan);
     });
@@ -79,41 +80,9 @@ const toKobo = (amount) => {
     return amount*100;
 }
 
-const nearestThousand = (amount) => {
-    return Math.round(amount/100000)*100000
-}
 
-export const getNaira = (amount) => {
-    const nairaValue = parseFloat(amount / 100);
-    const formattedAmount =  nairaValue.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",");
-
-    return formattedAmount;
-}
-
-export const getTime = (date) => {
-    
-    date = date ? new Date(date) : new Date();	
-      
-    const monthNames = [
-    'Jan', 'Feb', 'Mar',
-    'Apr', 'May', 'Jun', 'Jul',
-    'Aug', 'Sep', 'Oct',
-    'Nov', 'Dec'
-    ];
-    
-    const hourNames = ['12','01', '02', '03','04','05','06','07','08','09','10','11']
-    
-    const day = date.getDate().toString();
-    const monthIndex = date.getMonth();
-    const year = date.getFullYear();
-    
-    const hh = date.getHours().toString();
-    const minute = date.getMinutes().toString();
-    // console.log(hour)
-    const amPm = hh >= 12 ? 'PM' : 'AM';
-    const hour = hh % 12;
-
-    return `${monthNames[monthIndex]} ${day}, ${year} ${hourNames[hour]}:${minute > 9 ? minute : '0' + minute + amPm}`;
+export const monthlyRepayable = (amount, duration) => {
+    return parseInt((amount + (amount * interestRate))/duration, 10);
 }
 
 

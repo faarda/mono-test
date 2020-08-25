@@ -1,10 +1,11 @@
 import { h } from 'preact'
-import { useContext, useEffect, useCallback} from 'preact/hooks'
+import { useContext, useEffect} from 'preact/hooks'
 import userDataContext from '../contexts/userDataContext'
 import useCreateState from '../hooks/useCreateState'
 import { route } from 'preact-router'
 import monoApi from '../services/monoApi'
-import loanCalculator, {getNaira} from '../services/loanCalculator'
+import loanCalculator from '../services/loanCalculator'
+import { getNaira, getRealValue } from '../services/utilities'
 import Transaction from '../components/Transaction'
 
 function MyLoan() {
@@ -18,23 +19,19 @@ function MyLoan() {
         loan: {}
     })
 
+    // check and redirect if code or id doesnt exist
     useEffect(() => {
         const storedData = JSON.parse(localStorage.getItem("mono_user") || "{}");
-        console.log(code)
 
-        if(code){
+        if(code || storedData.id){
             return () => {}
-        } else if(Object.keys(storedData).length){
-            //retrieve user id from local storage
-           setData.id(storedData.id);
-           setData.name(storedData.name);
-           setData.requestedAmount(storedData.requestedAmount);
-        }else if(!code){
-            route("/", true);
-        }
+        } 
+            
+        route("/", true);
         
     }, []);
 
+    // fetch user's id
     useEffect(() => {
         if(code){
             monoApi.GET_USER_ID(code)
@@ -53,6 +50,7 @@ function MyLoan() {
         }
     }, [code]);
 
+    // fetch users accounts
     useEffect(() => {
         if(id){
             monoApi.GET_ACCOUNTS(id)
@@ -61,31 +59,36 @@ function MyLoan() {
                 })
                 .catch(err => {
                     setState.error(true);
-                    console.log(err)
+                    // console.log(err)
                 })
         }
     }, [id]);
 
+    // fetch transactions
     useEffect(() => {
         if(id){
             monoApi.GET_TRANSACTIONS(id, 6)
                 .then(res => {
                     const history = res.data.data;
                     setState.transactionHistory(history);
-                    console.log(history)
                 })
                 .catch(err => {
-                    console.log(err);
+                    setState.error(true);
+                    // console.log(err);
                 })
         }
     }, [id]);
 
+    // calculate offerable loan
     useEffect(() => {
         if(state.transactionHistory.length > 0){
-            loanCalculator(state.transactionHistory, requestedAmount)
+            loanCalculator(state.transactionHistory, getRealValue(requestedAmount))
                 .then(res => {
                     setState.loan(res);
                     setState.loading(false);
+                })
+                .catch(() => {
+                    setState.error(true);
                 })
         }
     }, [state.transactionHistory, requestedAmount]);

@@ -3,6 +3,7 @@ import { useEffect } from 'preact/hooks'
 
 function WidgetAccountLoading({ next }) {
 
+    //load for 2secs then proceed
     useEffect(() => {
          const timeout = setTimeout(() => {
             next();

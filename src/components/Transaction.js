@@ -1,5 +1,5 @@
 import { h } from 'preact'
-import { getNaira, getTime } from '../services/loanCalculator'
+import { getNaira, getTime } from '../services/utilities'
 
 function Transaction({transaction}) {
     return (    

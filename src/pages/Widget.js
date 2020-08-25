@@ -5,6 +5,7 @@ import WidgetAccountLoading from '../components/WidgetAccountLoading'
 import WidgetAccount from '../components/WidgetAccount'
 import WidgetSuccess from '../components/WidgetSuccess'
 import { useState, useEffect } from 'preact/hooks'
+import widgetController from '../services/widgetController'
 
 
 function Widget() {
@@ -36,33 +37,15 @@ function Widget() {
     }
 
     useEffect(() => {
-        const openWidgetBtns = [...document.querySelectorAll('[data-open-widget]')];
-        const closeWidgetBtns = [...document.querySelectorAll('[data-close-widget]')];
+        const widget = new widgetController('gtb-barter');
 
-        openWidgetBtns[0].forEach(btn => {
-            btn.addEventListener('click', () => {
-                const widget = document.getElementById(`widget-${btn.dataset.openWidget}`);
-                widget.classList.add('open');
-            });
+        widget.watchWidgets();
+
+        // listen to widget closed event and reset level
+        widget.widget.addEventListener('widget-closed', () => {
+            setLevel(0);
         });
 
-        closeWidgetBtns[0].forEach(btn => {
-            btn.addEventListener('click', () => {
-                const widget = document.getElementById(`widget-${btn.dataset.closeWidget}`);
-                widget.classList.remove('open');
-                setLevel(0);
-            });
-        });
-
-        return () => {
-            openWidgetBtns[0].forEach(btn => {
-                btn.removeEventListener('click', () => {});
-            });
-
-            closeWidgetBtns[0].forEach(btn => {
-                btn.removeEventListener('click', () => {});
-            });
-        }
     }, [level, setLevel])
 
     return (
