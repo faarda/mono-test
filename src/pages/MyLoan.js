@@ -20,8 +20,11 @@ function MyLoan() {
 
     useEffect(() => {
         const storedData = JSON.parse(localStorage.getItem("mono_user") || "{}");
+        console.log(code)
 
-        if(Object.keys(storedData).length > 0 && !code){
+        if(code){
+            return () => {}
+        } else if(Object.keys(storedData).length){
             //retrieve user id from local storage
            setData.id(storedData.id);
            setData.name(storedData.name);
@@ -33,7 +36,7 @@ function MyLoan() {
     }, []);
 
     useEffect(() => {
-        if(code & !id){
+        if(code){
             monoApi.GET_USER_ID(code)
                 .then(res => {
                     const id = res.data.id;
@@ -48,7 +51,7 @@ function MyLoan() {
                     console.log(err)
                 })
         }
-    }, [code, id]);
+    }, [code]);
 
     useEffect(() => {
         if(id){
@@ -101,13 +104,13 @@ function MyLoan() {
                         <h1 className="m-title mb-1">Hello, {name} 👋🏾</h1>
                         <div className="m-alert mb-1">
                             <span className="icon">🎉</span>
-                            <p>Congratulations, we’re willing to offer you <b>{getNaira(state.loan.amount)}</b> for three months, with a monthy repayment of <b>{getNaira(state.loan.monthlyRepayable)}</b>.</p>
+                            <p>Congratulations, we’re willing to offer you <b>₦{getNaira(state.loan.amount)}</b> for three months, with a monthy repayment of <b>₦{getNaira(state.loan.monthlyRepayable)}</b>.</p>
                         </div>
                         <p className="mt-2">Here's what we got from your bank</p>
                         <div className="m-card mt-1 text-center">
                             <p className="mb-1"><span className="text-grey">Account Name:</span> {state.bankData.name}</p>
                             <p className="mb-1"><span className="text-grey">Account Number:</span> {state.bankData.accountNumber}</p>
-                            <p className="mb-1"><span className="text-grey">Balance:</span> <span className="text-success">{getNaira(state.bankData.balance)}</span></p>
+                            <p className="mb-1"><span className="text-grey">Balance:</span> <span className="text-success">₦{getNaira(state.bankData.balance)}</span></p>
                         </div>
                         <h3 className="m-title mb-1 mt-2">Recent Transactions</h3>
                         <div className="m-card">
