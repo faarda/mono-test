@@ -8,7 +8,7 @@ function Transaction({transaction}) {
                 <p className="m-trans__tran__info__desc">{transaction.narration}</p>
                 <span className="text-grey m-trans__tran__info__time">{getTime(transaction.date)}</span>
             </div>
-            <span className={`m-trans__tran__amount ${transaction.type}`}>+{getNaira(transaction.amount)}</span>
+            <span className={`m-trans__tran__amount ${transaction.type}`}>{transaction.type === 'debit' ? '-' : '+'}{getNaira(transaction.amount)}</span>
         </li>
     )
 }

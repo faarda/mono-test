@@ -13,7 +13,7 @@ function RequestLoan() {
 
     //determine is button is disabled
     const buttonDisabled = useCallback(() => {
-        return data.name == "" || data.requestedAmount.toString() === "0" 
+        return data.name === "" || data.requestedAmount.toString() === "0" 
         || data.requestedAmount === null || data.requestedAmount === "";
     }, [data.name, data.requestedAmount]);
 
