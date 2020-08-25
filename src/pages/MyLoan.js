@@ -45,7 +45,6 @@ function MyLoan() {
                 })
                 .catch(err => {
                     setState.error(true);
-                    console.log(err)
                 })
         }
     }, [code]);
@@ -59,7 +58,6 @@ function MyLoan() {
                 })
                 .catch(() => {
                     setState.error(true);
-                    // console.log(err)
                 })
         }
     }, [id]);
@@ -74,7 +72,6 @@ function MyLoan() {
                 })
                 .catch(() => {
                     setState.error(true);
-                    // console.log(err);
                 })
         }
     }, [id]);

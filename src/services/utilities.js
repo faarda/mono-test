@@ -1,7 +1,6 @@
 export const getNaira = (amount) => {
     const nairaValue = parseFloat(amount / 100);
     const formattedAmount =  nairaValue.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",");
-    // console.log(formatte)
     return formattedAmount;
 }
 
