@@ -57,7 +57,7 @@ function MyLoan() {
                 .then(res => {
                     setState.bankData(res.data.account)
                 })
-                .catch(err => {
+                .catch(() => {
                     setState.error(true);
                     // console.log(err)
                 })
@@ -72,7 +72,7 @@ function MyLoan() {
                     const history = res.data.data;
                     setState.transactionHistory(history);
                 })
-                .catch(err => {
+                .catch(() => {
                     setState.error(true);
                     // console.log(err);
                 })
@@ -98,7 +98,7 @@ function MyLoan() {
             {
                 state.loading ? 
                 <>
-                    <p className="text-center">loading...</p>
+                    <p className="text-center" style={{color: '#0124DD', width: "100%"}}><div className="m-spinner" style={{margin: "0 auto"}} /></p>
                 </> :
                 (
                     state.error ? 
