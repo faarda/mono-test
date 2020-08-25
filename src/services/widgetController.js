@@ -2,7 +2,6 @@
 class WidgetController {
     constructor(widgetId) {
         this.widget = document.getElementById(`widget-${widgetId}`);
-        console.log(this.widget)
     }
 
     watchWidgets(){
