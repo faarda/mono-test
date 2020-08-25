@@ -8,15 +8,16 @@
     transition: .3s ease-in all;
 
     &--primary{
-        background: lighten($primary, 10);
+        background: linear-gradient(to bottom, lighten($primary, 15) 5%, $primary);
         color: $light;
         border-radius: 1rem;
         padding: 1.7rem;
+        border: solid 2px $primary;
 
         &:hover{
             color: #fff;
             box-shadow: 0 3px 20px rgba(0,0,0,.1);
-            background: $primary;
+            background: linear-gradient(to bottom, $primary, $primary);
         }
 
         &:disabled,
@@ -24,6 +25,53 @@
             background: lighten($primary, 30);
             color: darken($light, 8);
             cursor: not-allowed;
+            border-color: lighten($primary, 25);
+        }
+    }
+
+    &--gtb{
+        background: linear-gradient(to bottom, lighten($gtb, 15) 5%, $gtb);
+        color: $light;
+        border-radius: 1rem;
+        padding: 1.7rem;
+        border: solid 2px $gtb;
+
+        &:hover{
+            color: #fff;
+            box-shadow: 0 3px 20px rgba(0,0,0,.1);
+            background: linear-gradient(to bottom, $gtb, $gtb);
+        }
+
+        &:disabled,
+        &:disabled:hover{
+            background: lighten($gtb, 30);
+            color: darken($light, 8);
+            cursor: not-allowed;
+            border-color: lighten($gtb, 25);
+        }
+    }
+
+    &--text{
+        background: transparent;
+        color: $primary;
+        border-radius: 1rem;
+        padding: 1.5rem;
+        border: solid 2px transparent;
+
+        &:hover{
+            border-color: $primary;
+        }
+    }
+
+    &--white{
+        background: #fff;
+        color: $grey-dark;
+        border-radius: 1rem;
+        padding: 1.7rem;
+        // border: solid 2px transparent;
+
+        &:hover{
+            box-shadow: 0 5px 5px rgba(0,0,0,.05);
         }
     }
 }

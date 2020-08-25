@@ -3,11 +3,18 @@ $light: #F9F9F9;
 $grey: #8C8FA3;
 $grey-dark: #55586F;
 $dark: #050929;
-$success: #2ECC40;
+$success: #00E595;
+$gtb: #D94F00;
 
 // MIXINS
 
 @mixin flex {
     display: flex;
     align-items: center;
+}
+
+@mixin sm{
+    @media screen and (max-width: 500px){
+        @content
+    }
 }

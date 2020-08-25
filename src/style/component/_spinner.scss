@@ -1,0 +1,21 @@
+.m-spinner {
+    width: 3rem;
+    height: 3rem;
+    border-radius: 50%;
+    border: 0.3rem solid rgba($light, 0.9);
+    border-top-color: currentColor;
+    animation: 1.5s spin infinite linear;
+
+    &--lg{
+        width: 7rem;
+        height: 7rem;
+        border-width: .5rem;
+        // border-width: .5rem;
+    }
+}
+
+@keyframes spin{
+    to {
+        transform: rotate(360deg);
+    }
+}
