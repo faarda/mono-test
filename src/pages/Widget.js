@@ -37,6 +37,7 @@ function Widget() {
     }
 
     useEffect(() => {
+        // widgetController handles opening and closing of the widget
         const widget = new widgetController('gtb-barter');
 
         widget.watchWidgets();
